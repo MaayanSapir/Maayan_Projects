@@ -1,0 +1,1171 @@
+﻿hashed_ph_id,hashed_claim_id,claim_start_date,claim_end_date,birth_date,GENDER,filing_state,claim_status,eb_status,eb_reassessment_date,primary_diagnosis,last_care_setting
+1134,1362,30/12/2017,,24/10/1929,M,MN,Denied,Denied,,"Chronic kidney disease, unspecified",
+1255,1918,20/12/2016,24/12/2017,21/03/1933,F,FL,Approved Closed,Closed,,Unspecified dementia,NH
+1550,1286,24/07/2015,22/04/2017,02/08/1938,F,MO,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1984,1008,22/05/2016,22/06/2017,29/07/1924,M,MS,Approved Closed,Closed,,"Sepsis, unspecified organism",HHC
+1084,1674,24/05/2013,24/09/2018,26/02/1927,F,IA,Approved Closed,Closed,,Muscle weakness (generalized),NH
+1156,1591,24/05/2020,26/06/2020,13/05/1926,F,CA,Approved Closed,Deceased,,Unspecified dementia,NH
+1010,1870,17/07/2012,25/06/2014,23/03/1931,F,WI,Approved Closed,Closed,,PARKINSON'S DISEASE,NH
+1966,1169,01/12/2009,24/10/2009,10/09/1925,F,AR,Approved Closed,Closed,,CHRONIC AIRWAY OBSTRUCTIVE PULMONARY DISEASE,NH
+1828,1101,29/02/2016,24/10/2020,05/11/1927,F,KS,Approved Closed,Deceased,,Aftercare following joint replacement surgery,NH
+1653,1391,09/11/2015,14/04/2019,04/11/1936,F,FL,Approved Closed,Closed,,Parkinson's disease,NH
+1601,1218,14/11/2010,04/05/2012,20/07/1924,M,NC,Approved Closed,Closed,,"STROKE, CVA",HHC
+1795,1990,19/04/2016,14/09/2016,11/08/1932,F,VA,Approved Closed,Closed,,Primary generalized (osteo)arthritis,NH
+1264,1307,18/08/2014,17/02/2019,22/06/1927,F,OH,Approved Closed,Closed,,"Heart failure, unspecified",HHC
+1956,1252,14/01/2017,13/03/2018,10/03/1935,F,OR,Approved Closed,Closed,,Unspecified dementia with behavioral disturbance,NH
+1895,1989,05/01/2017,14/11/2019,24/11/1926,M,MD,Approved Closed,Closed,,"Mild cognitive impairment, so stated",HHC
+1027,1473,08/02/2016,29/03/2019,08/12/1937,F,OR,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1246,1636,02/09/2016,23/04/2016,29/10/1921,F,IL,Approved Closed,Closed,,Essential (primary) hypertension,
+1745,1746,06/01/2020,,23/12/1936,M,VA,Denied,Denied,,Unspecified systolic (congestive) heart failure,
+1440,1707,24/10/2009,11/11/2009,30/04/1924,F,WI,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1724,2079,13/06/2003,07/01/2003,27/02/1924,M,MO,Approved Closed,Closed,,CANCER OF COLON,NH
+1342,1962,10/09/2015,,16/09/1933,M,NH,Denied,Denied,,Hereditary motor and sensory neuropathy,
+1113,1234,21/10/2017,23/10/2019,20/01/1930,F,MA,Approved Closed,Closed,,"Cerebral infarction, unspecified",HHC
+1693,1095,21/01/2018,22/07/2018,18/07/1927,F,IA,Approved Closed,Closed,,Weakness,HHC
+1777,1672,09/10/2011,,21/10/1930,F,TX,Denied,Denied,,CHOLERA,
+1566,2023,16/06/2015,07/11/2015,28/08/1930,M,FL,Approved Closed,Closed,,"Malignant neoplasm of pancreas, unspecified",
+1121,1982,15/11/2014,,09/09/1935,F,VA,Denied,Denied,,CHOLERA,
+1656,1209,24/10/2018,20/03/2022,01/08/1937,F,KS,Approved-Reassessment,Approved,20/03/2022,"Unspecified osteoarthritis, unspecified site",NH
+1542,2078,14/11/2009,16/11/2009,12/12/1937,F,CA,Approved Closed,Closed,,FRACTURE OF ANKLE,
+1460,1348,06/01/2018,10/04/2019,22/05/1931,M,CT,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1022,1564,28/09/2018,31/05/2019,13/06/1929,F,FL,Approved Closed,Closed,,Unspecified convulsions,HHC
+1396,1303,15/04/2017,,25/08/1948,M,KY,Denied,Denied,,Other hydrocephalus,
+1634,1769,09/07/2014,16/09/2017,24/01/1936,F,GA,Approved Closed,Closed,,Muscular dystrophy,HHC
+1062,1462,10/03/2013,12/08/2013,19/07/1929,F,OK,Approved Closed,Closed,,FRACTURE OF VERTEBRAL COLUMN WITHOUT MENTION OF SPINAL CORD,NH
+1017,1079,05/04/2021,01/07/2022,25/09/1942,M,VA,Approved-Reassessment,Approved,07/01/2022,"Chronic obstructive pulmonary disease, unspecified",HHC
+1091,1005,01/01/2018,15/02/2021,11/09/1923,F,OH,Approved Closed,Closed,,"Spinal stenosis, lumbar region",NH
+1935,2121,06/01/2021,01/04/2022,24/10/1922,F,IA,Approved-Reassessment,Approved,04/01/2022,"Leukemia, unspecified not having achieved remission",
+1169,1733,05/11/2012,23/08/2013,26/02/1931,F,OH,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1569,1389,14/03/2019,,24/03/1930,M,NC,Denied,Denied,,Unspecified dementia without behavioral disturbance,
+1911,1228,19/08/2011,24/02/2014,15/10/1933,F,MN,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1968,2163,18/10/2019,28/11/2021,06/05/1938,F,WI,Approved-Reassessment,Approved,28/11/2021,Parkinson's disease,NH
+1605,1678,22/12/2017,24/05/2022,13/09/1923,F,FL,Approved-Reassessment,Approved,24/05/2022,Repeated falls,HHC
+1976,1049,21/08/2020,25/12/2021,25/01/1939,F,KS,Approved-Reassessment,Approved,25/12/2021,Unspecified dementia with behavioral disturbance,Alt Housing
+1385,2149,10/05/2014,03/07/2016,12/08/1929,F,NE,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1955,2148,24/05/2013,21/04/2023,01/07/1929,F,IA,Approved-Reassessment,Approved,,Hereditary motor and sensory neuropathy,NH
+1267,1072,17/07/2021,,21/11/1939,F,IN,NEW,In Assessment,,,
+1231,1443,25/10/2019,03/03/2020,14/04/1927,F,MA,Approved Closed,Closed,,Unsp mental disorder due to known physiological condition,HHC
+1595,1549,30/10/2016,26/11/2016,07/10/1936,F,MS,Approved Closed,Closed,,Unspecified fracture of sacrum,
+1186,1723,04/11/2005,22/04/2008,14/06/1920,M,MS,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1892,1475,09/08/2018,04/03/2019,31/03/1920,F,IL,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",NH
+1209,1478,05/01/2018,11/01/2022,04/04/1921,F,MO,Approved-Reassessment,Approved,,Cognitive deficits following cerebral infarction,NH
+1644,1382,04/12/2014,27/08/2018,23/05/1925,M,MA,Approved Closed,Closed,,"Unspecified osteoarthritis, unspecified site",NH
+1531,2062,28/11/2018,08/01/2019,23/07/1927,M,OR,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1086,1533,02/05/2013,,20/08/1929,M,NH,Denied,Denied,,CHOLERA,
+1447,1846,19/01/2002,,03/04/1932,F,TN,Denied,Denied,,CHOLERA,
+1972,1483,24/02/2002,26/12/2003,22/06/1914,M,NC,Approved Closed,Closed,,"SKIN ULCERS, UNSPECIFIED",NH
+1489,2101,04/12/2005,23/09/2005,08/01/1928,F,FL,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1030,1559,23/08/2017,04/05/2019,28/03/1930,F,WI,Approved Closed,Closed,,Cardiomyopathy,NH
+1852,1216,04/10/2021,05/09/2022,06/11/1941,M,AZ,Approved-Reassessment,Approved,09/05/2022,"Alzheimer's disease, unspecified",
+1573,1567,08/03/2019,24/06/2020,29/09/1935,F,KS,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1305,1023,16/04/2016,05/02/2016,03/03/1929,F,MA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,
+1399,1313,10/12/2010,29/12/2012,24/08/1931,M,MI,Approved Closed,Closed,,DISEASES OF ESOPHAGUS,NH
+1914,1580,27/12/2020,24/01/2024,10/10/1931,F,MO,Approved-Reassessment,Approved,24/01/2024,Unspecified dementia without behavioral disturbance,NH
+1646,1627,07/02/2017,10/02/2019,21/12/1925,F,MA,Approved Closed,Closed,,Cereb infrc due to unsp occls or stenos of middle cereb art,NH
+1499,1575,02/04/2017,13/12/2020,06/06/1929,F,WA,Approved Closed,Deceased,,Unspecified dementia without behavioral disturbance,NH
+1068,1479,23/10/2011,13/01/2015,29/03/1927,M,MA,Approved Closed,Closed,,CHRONIC AIRWAY OBSTRUCTIVE PULMONARY DISEASE,HHC
+1529,1658,29/01/2011,11/06/2011,24/01/1937,M,IA,Approved Closed,Closed,,CANCER OF BRAIN,NH
+1979,1913,30/07/2005,25/10/2006,11/03/1928,M,TX,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1185,2083,24/10/2019,01/07/2020,06/01/1930,M,TX,Approved Closed,Closed,,Dementia in oth diseases classd elswhr w/o behavrl disturb,Alt Housing
+1485,1517,21/03/2006,24/02/2009,09/02/1928,F,FL,Approved Closed,Closed,,ASTHMA,NH
+1708,1633,24/12/2019,25/04/2023,01/06/1937,F,IL,Approved-Reassessment,Approved,25/04/2023,Other Alzheimer's disease,NH
+1201,1138,30/11/2020,15/07/2021,11/10/1933,F,KS,Approved-Reassessment,In Assessment,15/07/2021,Unsteadiness on feet,HHC
+1072,1640,15/01/2020,11/03/2021,04/03/1928,M,SC,Approved-Reassessment,Approved,03/11/2021,Athscl heart disease of native coronary artery w/o ang pctrs,NH
+1244,1716,26/12/2015,24/01/2019,16/11/1925,F,OH,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1767,1300,06/08/2015,06/09/2015,28/06/1925,F,FL,Approved Closed,Closed,,"Mild cognitive impairment, so stated",
+1363,1765,10/08/2014,24/05/2016,18/08/1929,M,ID,Approved Closed,Closed,,CANCER OF ESOPHAGUS,NH
+1761,1709,06/10/2019,24/09/2021,25/01/1929,F,PA,Approved-Reassessment,Approved,24/09/2021,Fracture of fifth metatarsal bone,NH
+1512,1831,24/11/2020,,21/03/1939,F,MN,Withdrawn,Closed,,Cerebral infarction due to embolism of unsp carotid artery,
+1817,2016,04/01/2020,16/05/2023,09/08/1931,F,WI,Approved-Reassessment,Approved,,Unspecified dementia,NH
+1779,1821,11/03/2017,25/09/2018,03/09/1937,F,KY,Approved Closed,Closed,,Unspecified dementia,NH
+1844,1539,24/02/2019,,04/04/1925,M,WI,Denied,Denied,,Unspecified macular degeneration,
+1670,1967,24/12/2010,17/11/2015,02/07/1930,F,IA,Approved Closed,Closed,,Hereditary motor and sensory neuropathy,NH
+1312,1688,02/01/2013,10/08/2019,06/07/1923,F,FL,Approved Closed,Closed,,Other fatigue,HHC
+1738,1455,20/06/2016,,10/12/1935,F,GA,Denied,Denied,,CHOLERA,
+1752,1039,28/02/2016,02/01/2022,30/03/1931,F,MA,Approved-Reassessment,Approved,01/02/2022,Cerebral infarction due to embolism of unsp vertebral artery,HHC
+1638,1668,19/01/2008,27/04/2008,20/06/1935,F,MT,Approved Closed,Closed,,ANTERIOR HORN CELL DISEASE,HHC
+1910,1708,27/07/2012,14/02/2015,09/10/1929,M,NH,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1094,1513,03/01/2021,,18/08/1934,M,MN,Withdrawn,Closed,,Athscl heart disease of native coronary artery w/o ang pctrs,
+1816,1677,07/03/2017,03/05/2021,12/09/1928,F,TX,Approved Closed,Deceased,,End stage renal disease,NH
+1873,1652,05/01/2021,01/11/2022,09/02/1929,F,NC,Approved-Reassessment,Approved,11/01/2022,Cerebral infarction due to thombos unsp cerebral artery,Alt Housing
+1429,1496,17/03/2016,20/05/2018,31/10/1926,F,TX,Approved Closed,Closed,,"Primary osteoarthritis, unspecified site",Alt Housing
+1799,1050,02/01/2016,21/01/2019,08/02/1927,F,FL,Approved Closed,Closed,,"Unspecified osteoarthritis, unspecified site",HHC
+1167,2063,04/03/2021,05/11/2022,28/07/1933,F,OH,Approved-Reassessment,Approved,11/05/2022,Unspecified dementia without behavioral disturbance,Alt Housing
+1387,1792,13/08/2009,14/06/2018,10/11/1928,F,NC,Approved Closed,Closed,,"Kaschin-Beck disease, unspecified site",NH
+1456,2102,04/01/2014,23/04/2015,08/02/1927,F,TX,Approved Closed,Closed,,ORGANIC BRAIN SYNDROME,NH
+1480,1759,14/05/2016,,04/10/1930,F,KS,Denied,Denied,,CHOLERA,
+1100,1013,05/10/2016,28/05/2018,29/04/1932,F,OH,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1843,1457,14/11/2009,08/05/2011,21/07/1932,F,VA,Approved Closed,Closed,,"CANCER OF UTERUS, PART UNSPECIFIED",HHC
+1946,1445,29/05/2018,23/10/2020,28/04/1929,M,MN,Approved Closed,Closed,,"Chronic kidney disease, stage 3 (moderate)",NH
+1461,1698,29/03/2017,10/07/2020,31/12/1931,M,CA,Approved Closed,Closed,,"Pneumonia, unspecified organism",HHC
+1930,1714,31/03/2012,,13/11/1932,F,CT,Denied,Denied,,CHOLERA,
+1043,1851,16/10/2020,,07/02/1937,F,IN,Denied,Denied,,"Stress fracture, unsp toe(s), init encntr for fracture",
+1577,2045,18/03/2012,04/07/2015,09/07/1926,F,MN,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",HHC
+1009,2018,10/10/2010,24/05/2022,29/11/1932,M,MA,Approved-Reassessment,Approved,24/05/2022,Parkinson's disease,HHC
+1913,1896,28/03/2021,23/08/2021,16/05/1927,F,MA,Approved-Reassessment,In Assessment,23/08/2021,Chronic atrial fibrillation,NH
+1384,1625,25/04/2019,21/06/2022,25/10/1926,F,IN,Approved-Reassessment,Approved,,Unspecified dementia without behavioral disturbance,NH
+1800,1637,14/01/2002,22/05/2020,16/07/1942,F,NC,Approved Closed,Closed,,CHOLERA,
+1837,1981,22/07/2017,30/11/2019,21/10/1928,F,WA,Approved Closed,Closed,,"Spinal stenosis, thoracic region",NH
+1409,1685,06/07/2013,,03/12/1937,F,TX,Denied,Denied,,Occup of pk-up/van injured in collision w hv veh in traf,
+1539,2103,30/11/2020,16/11/2020,21/09/1924,M,NH,Approved Closed,Deceased,,"Unsp fracture of sacrum, init encntr for closed fracture",
+1999,1743,10/02/2015,18/08/2018,27/04/1933,M,CT,Approved Closed,Closed,,"Spinal stenosis, site unspecified",NH
+1166,2154,21/09/2017,21/11/2018,19/01/1926,F,FL,Approved Closed,Closed,,"Chronic kidney disease, stage 4 (severe)",HHC
+1760,1770,28/08/2018,28/01/2020,25/09/1924,F,DC,Approved Closed,Closed,,Unspecified fracture of femur,HHC
+1814,1695,11/12/2010,11/01/2021,25/11/1932,F,KS,Approved-Reassessment,Approved,01/11/2021,"Alzheimer's disease, unspecified",NH
+1299,1790,23/04/2007,04/01/2008,09/05/1924,M,TN,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1032,1881,12/05/2015,04/03/2022,28/09/1924,F,FL,Approved-Reassessment,Approved,03/04/2022,Other amnesia,NH
+1093,1260,22/01/2019,,03/05/1929,M,FL,Denied,Denied,,Fracture of unspecified part of neck of femur,
+1097,1434,26/01/2020,16/02/2021,13/04/1928,M,IL,Approved Closed,Deceased,,Hyp hrt & chr kdny dis w hrt fail and stg 1-4/unsp chr kdny,NH
+1734,2024,17/01/2020,,17/07/1933,F,MA,Denied,Denied,,Alzheimer's disease with late onset,
+1358,1069,22/03/2018,03/01/2020,24/08/1929,F,MI,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1588,1392,11/04/2007,,06/07/1927,M,OH,Denied,Denied,,ORGANIC BRAIN SYNDROME,
+1598,1983,22/01/2018,,24/03/1933,F,WA,Denied,Denied,,Malignant neoplasm of unsp part of left bronchus or lung,
+1602,2034,01/05/2020,05/11/2020,08/10/1931,M,WY,Approved Closed,Closed,,Unspecified dementia with behavioral disturbance,NH
+1973,1518,11/07/2002,,06/09/1926,M,MO,Denied,Denied,,CHOLERA,
+1029,2095,22/03/2021,17/06/2021,23/06/1932,F,MI,Approved Closed,Deceased,,"Chronic obstructive pulmonary disease, unspecified",
+1554,2138,23/02/2019,,07/07/1925,F,CT,Denied,Denied,,Other nontraumatic intracerebral hemorrhage,
+1053,1379,03/10/2018,01/02/2022,19/01/1938,F,NC,Approved-Reassessment,Approved,02/01/2022,"Injury of oth nerves at abdomen, lower back and pelvis level",HHC
+1330,1676,10/03/2008,31/03/2009,22/04/1930,M,TN,Approved Closed,Closed,,ALZHEIMER'S DISEASE,HHC
+1744,2110,05/06/2017,,02/08/1946,M,KS,Denied,Denied,,CHOLERA,
+1649,1828,18/05/2018,13/10/2020,13/07/1929,F,MA,Approved Closed,Closed,,"Malignant neoplasm of vulva, unspecified",Ind Prov
+1668,2108,16/10/2020,25/12/2021,26/04/1926,F,TX,Approved-Reassessment,Approved,25/12/2021,Unspecified dementia with behavioral disturbance,NH
+1343,1628,03/08/2019,16/03/2021,03/03/1930,M,CA,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",Ind Prov
+1390,1136,15/11/2019,18/05/2022,24/07/1941,F,FL,Approved-Reassessment,Approved,18/05/2022,Unspecified fall,HHC
+1292,1842,10/12/2013,21/04/2014,06/06/1920,F,KY,Approved Closed,Closed,,"Heart failure, unspecified",
+1716,2041,29/01/2016,03/12/2016,17/11/1935,F,PA,Approved Closed,Closed,,"Cerebral infarction, unspecified",
+1906,1603,02/12/2018,27/03/2019,25/07/1924,M,FL,Approved Closed,Closed,,Parkinson's disease,HHC
+1674,1500,26/03/2018,07/09/2020,16/08/1926,F,MN,Approved Closed,Closed,,"Mild cognitive impairment, so stated",Alt Housing
+1132,1788,22/08/2018,24/09/2020,29/07/1940,F,OH,Approved Closed,Deceased,,Unspecified dementia without behavioral disturbance,NH
+1116,1144,20/02/2019,18/11/2021,23/02/1933,F,KS,Approved-Reassessment,Approved,18/11/2021,Ankylosing spondylitis of thoracolumbar region,NH
+1665,1857,28/09/2019,24/09/2021,11/12/1930,M,CA,Approved-Reassessment,Approved,24/09/2021,"Fusion of spine, lumbar region",Personal Care
+1830,1979,28/07/2015,20/05/2018,19/06/1929,F,ID,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1464,1030,01/10/2014,,07/03/1934,F,FL,Denied,Denied,,Unspecified atrial fibrillation,
+1303,1281,27/10/2014,,06/01/1931,F,TX,Denied,Denied,,CHOLERA,
+1691,1570,20/12/2013,16/11/2019,17/12/1927,F,MN,Approved Closed,Closed,,Unspecified dementia with behavioral disturbance,NH
+1681,1749,11/10/2017,02/02/2021,26/08/1929,M,DE,Approved Closed,Deceased,,Chronic obstructive pulmonary disease w (acute) exacerbation,NH
+1006,1359,11/02/2017,23/02/2021,26/08/1926,F,FL,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1272,2058,14/04/2017,,05/03/1928,F,MO,Denied,Denied,,"Spinal stenosis, cervicothoracic region",
+1040,1898,31/05/2021,31/05/2021,15/05/1934,F,WA,Approved Closed,Closed,,Malignant neoplasm of unsp part of unsp bronchus or lung,
+1580,1081,15/05/2021,10/04/2021,09/04/1937,M,WI,Approved-Reassessment,Approved,04/10/2021,Athscl heart disease of native coronary artery w/o ang pctrs,
+1522,2131,08/06/2005,13/08/2006,10/03/1927,M,FL,Approved Closed,Closed,,PARKINSON'S DISEASE,HHC
+1498,1333,02/07/2020,06/05/2022,19/03/1932,F,TX,Approved-Reassessment,Approved,05/06/2022,Parkinson's disease,NH
+1492,2135,21/01/2018,27/08/2021,05/07/1935,F,NC,Approved-Reassessment,In Assessment,27/08/2021,Vascular dementia,HHC
+1804,1830,18/08/2018,23/05/2019,30/01/1935,M,WA,Approved Closed,Closed,,Muscle weakness (generalized),NH
+1507,1293,03/05/2016,23/06/2016,24/09/1934,F,ID,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1870,1075,14/10/2016,16/10/2019,03/11/1924,M,KS,Approved Closed,Closed,,Oth mental disorders due to known physiological condition,NH
+1699,1963,23/06/2008,25/06/2008,05/06/1931,M,OH,Approved Closed,Closed,,CHOLERA,NH
+1357,1563,23/02/2018,23/04/2020,20/05/1929,F,IA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1977,1897,20/09/2011,09/07/2012,06/11/1929,F,IA,Approved Closed,Closed,,"STROKE, CVA",NH
+1501,1499,16/01/2015,19/01/2015,27/02/1929,F,OK,Approved Closed,Closed,,History of falling,
+1215,1256,24/10/2017,10/10/2018,05/05/1929,M,KS,Approved Closed,Closed,,Vascular dementia without behavioral disturbance,NH
+1791,1994,07/10/2016,23/11/2016,18/08/1939,F,NE,Approved Closed,Closed,,Parkinson's disease,
+1629,1748,22/09/2014,31/01/2019,01/11/1923,F,MN,Approved Closed,Closed,,"Legal blindness, as defined in USA",HHC
+1459,1722,28/01/2014,23/04/2014,30/08/1934,M,IA,Approved Closed,Closed,,FRACTURE OF ANKLE,NH
+1883,1526,24/03/2020,19/05/2020,03/03/1931,F,MO,Approved Closed,Closed,,Unspecified fall,NH
+1812,1747,14/09/2014,18/09/2014,22/09/1931,M,FL,Approved Closed,Closed,,CANCER OF LIVER AND INTRAHEPATIC BILE DUCTS,HHC
+1855,1480,24/07/2012,29/08/2012,17/06/1919,M,ID,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1111,1955,29/11/2020,09/09/2021,01/08/1924,F,SC,Approved-Reassessment,Approved,09/09/2021,"Chronic obstructive pulmonary disease, unspecified",Ind Prov
+1888,2031,14/12/2018,04/03/2019,04/07/1932,F,MO,Approved Closed,Closed,,"Heart failure, unspecified",HHC
+1115,1304,02/09/2014,26/05/2020,06/04/1934,F,CO,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1500,2164,23/11/2014,10/06/2018,07/03/1930,F,TN,Approved Closed,Closed,,Vascular dementia with behavioral disturbance,NH
+1636,2008,21/04/2020,17/07/2021,22/07/1930,F,FL,Approved-Reassessment,In Assessment,17/07/2021,Unspecified fall,HHC
+1564,1573,04/05/2008,19/09/2020,24/03/1925,F,FL,Approved Closed,Deceased,,"Noninfective gastroenteritis and colitis, unspecified",NH
+1059,1158,11/04/2012,12/09/2018,24/06/1928,M,WI,Approved Closed,Closed,,Age-related cognitive decline,NH
+1590,1992,17/09/2018,11/09/2021,17/03/1933,F,MI,Approved-Reassessment,Approved,09/11/2021,Acute respiratory failure with hypoxia,NH
+1003,1015,23/02/2017,23/08/2020,25/10/1930,F,WI,Approved Closed,Closed,,Unspecified dementia with behavioral disturbance,NH
+1479,1656,04/08/2017,04/09/2020,15/07/1928,M,NE,Approved Closed,Closed,,Unspecified atrial fibrillation,NH
+1994,1641,04/08/2018,22/11/2018,08/02/1932,F,MO,Approved Closed,Closed,,"Heart failure, unspecified",HHC
+1840,1773,11/01/2016,24/12/2018,01/09/1923,M,WA,Approved Closed,Closed,,"Chronic ischemic heart disease, unspecified",NH
+1782,1494,08/06/2013,25/09/2013,18/01/1932,M,CO,Approved Closed,Closed,,Unspecified atrial fibrillation,
+1395,1555,01/02/2015,23/02/2017,22/09/1928,M,CA,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1163,1219,23/09/2014,10/02/2018,10/03/1928,F,KS,Approved Closed,Closed,,Vascular dementia without behavioral disturbance,HHC
+1958,2157,19/05/2014,06/05/2018,04/12/1930,M,FL,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1723,2030,07/05/2019,10/11/2019,05/04/1936,F,MI,Approved Closed,Closed,,Unspecified kidney failure,NH
+1311,1429,19/08/2019,13/08/2020,17/10/1928,F,PA,Approved Closed,Closed,,Encntr for surgical aftcr fol surgery on spcf body systems,NH
+1341,2162,13/08/2008,23/02/2012,17/07/1928,M,SC,Approved Closed,Closed,,FRACTURE OF HIP,NH
+1612,1272,23/06/2018,16/08/2019,01/06/1934,F,IA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1826,1836,16/06/2015,,26/11/1936,M,FL,Denied,Denied,,Encounter for other specified postprocedural aftercare,
+1705,1025,22/08/2009,20/07/2011,05/10/1930,M,SC,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1271,1923,14/10/2016,12/01/2019,20/06/1930,F,MN,Approved Closed,Closed,,Cerebellar stroke syndrome,NH
+1280,1849,03/10/2016,23/06/2016,28/11/1936,F,OH,Approved Closed,Closed,,Transverse fracture of shaft of humerus,NH
+1145,2129,29/09/2013,,09/12/1922,M,AL,Denied,Denied,,HYPERTENSIVE RENAL DISEASE,
+1487,1719,07/05/2014,03/09/2015,14/10/1929,F,VT,Approved Closed,Closed,,Parkinson's disease,HHC
+1095,2002,09/05/2010,,06/10/1930,M,GA,Denied,Denied,,ORGANIC BRAIN SYNDROME,
+1853,1201,15/07/2011,14/09/2011,27/01/1930,M,MO,Approved Closed,Closed,,PARKINSON'S DISEASE,
+1904,2134,01/09/2018,08/02/2018,01/05/1926,F,NE,Approved Closed,Closed,,Repeated falls,NH
+1809,1376,23/02/2014,04/10/2016,07/08/1925,M,TX,Approved Closed,Closed,,FALLS/GAIT ABNORMALITIES,NH
+1322,2014,02/12/2019,21/12/2021,03/09/1937,F,OK,Approved-Reassessment,Approved,21/12/2021,Other injury of unspecified body region,Ind Prov
+1860,1605,31/05/2021,,04/11/1934,F,FL,Withdrawn,In Assessment,,"Unspecified osteoarthritis, unspecified site",
+1262,1977,23/06/2013,23/08/2013,19/01/1929,F,OK,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,
+1469,1602,23/11/2018,01/06/2020,18/01/1926,F,IL,Approved Closed,Closed,,Unspecified dementia,NH
+1251,1669,23/02/2003,23/06/2003,09/11/1935,F,MO,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1527,1796,19/05/2017,31/07/2018,09/09/1929,M,AR,Approved Closed,Closed,,Alzheimer's disease,NH
+1243,1886,15/06/2021,,22/10/1926,F,NC,NEW,In Assessment,,,
+1351,1565,09/12/2014,14/11/2019,04/11/1930,M,MS,Approved Closed,Closed,,"Cerebral infarction, unspecified",NH
+1424,1987,06/03/2012,,01/06/1938,M,TX,Denied,Denied,,CHOLERA,
+1685,1783,08/12/2013,,08/08/1936,F,CT,Denied,Denied,,CHOLERA,
+1963,2020,14/10/2014,09/08/2017,16/11/1930,M,AZ,Approved Closed,Closed,,"Alzheimer's disease, unspecified",HHC
+1389,1053,22/12/2009,22/12/2010,09/12/1921,M,OR,Approved Closed,Closed,,"Muscle wasting and atrophy, NEC, unsp site",NH
+1175,1495,04/10/2018,,13/08/1925,F,OH,Denied,Denied,,"Heart failure, unspecified",
+1970,1863,19/11/2019,19/02/2021,17/11/1927,F,SC,Approved Closed,Deceased,,Unspecified dementia without behavioral disturbance,NH
+1952,1229,26/04/2008,05/07/2009,18/08/1920,M,IL,Approved Closed,Closed,,OTHER FORMS OF CHRONIC ISCHEMIC HEART DISEASE,NH
+1004,1098,23/06/2004,23/06/2007,08/04/1932,F,CA,Approved Closed,Closed,,CANCER OF FEMALE BREAST,NH
+1066,2019,21/06/2014,19/02/2015,13/02/1930,M,KS,Approved Closed,Closed,,Vascular dementia without behavioral disturbance,HHC
+1673,2028,29/01/2021,03/04/2021,29/03/1932,F,WI,Approved Closed,Deceased,,Weakness,
+1998,1251,07/09/2019,,04/02/1924,F,IA,Denied,Denied,,Unspecified atrial fibrillation,
+1402,1874,29/03/2019,13/01/2020,10/04/1928,F,KS,Approved Closed,Closed,,Cerebellar stroke syndrome,HHC
+1060,1854,11/08/2015,28/11/2020,22/01/1924,M,AL,Approved Closed,Deceased,,Other cerebral infarction,Ind Prov
+1455,1036,07/07/2012,,10/07/1927,M,OR,Denied,Denied,,CHOLERA,
+1927,1530,09/05/2000,13/12/2000,07/05/1945,M,MI,Approved Closed,Closed,,CHOLERA,Other
+1582,1948,12/08/2006,11/06/2007,04/07/1922,F,VA,Approved Closed,Closed,,ALZHEIMER'S DISEASE,Alt Housing
+1153,1536,21/02/2016,27/06/2017,13/11/1928,F,FL,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1759,1192,30/08/2014,23/11/2014,26/05/1936,M,IL,Approved Closed,Closed,,Contusion of back wall of thorax,
+1203,1196,27/10/2015,,27/09/1931,F,OR,Denied,Denied,,Unspecified fracture of unspecified forearm,
+1729,1295,29/12/2020,,31/10/1935,F,FL,Withdrawn,Closed,,"Chronic obstructive pulmonary disease, unspecified",
+1631,1732,24/02/2004,23/11/2007,22/09/1925,M,MS,Approved Closed,Closed,,ALZHEIMER'S DISEASE,HHC
+1078,2035,24/05/2014,02/12/2016,02/10/1934,M,KS,Approved Closed,Closed,,Dementia in oth diseases classd elswhr w behavioral disturb,NH
+1250,2167,09/05/2014,01/10/2019,02/04/1933,F,TX,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1996,1173,11/10/2018,,25/08/1923,F,IA,Denied,Denied,,"Alzheimer's disease, unspecified",
+1217,1325,01/07/2020,16/03/2023,01/04/1930,M,MA,Approved-Reassessment,Approved,,Unspecified dementia without behavioral disturbance,NH
+1437,1312,25/09/2016,11/07/2016,03/12/1931,M,MO,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",NH
+1692,1871,07/03/2016,10/07/2019,03/02/1930,F,IA,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1293,1245,08/08/2015,21/02/2018,14/12/1934,M,CA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,Personal Care
+1042,1288,22/04/2011,13/05/2011,14/06/1920,M,FL,Approved Closed,Closed,,Other malaise,HHC
+1803,1279,20/11/2019,21/10/2021,20/01/1931,F,IL,Approved-Reassessment,Approved,21/10/2021,Presence of artificial hip joint,NH
+1252,2115,14/08/2010,05/09/2011,16/03/1937,F,FL,Approved Closed,Closed,,SUPRANUCLEAR PALSY/PARALYSIS,HHC
+1959,1551,10/02/2018,05/08/2020,09/12/1929,F,NC,Approved Closed,Closed,,History of falling,HHC
+1885,1265,23/01/2019,24/02/2020,24/07/1932,F,IL,Approved Closed,Closed,,"Polyneuropathy, unspecified",NH
+1890,1119,30/08/2011,24/12/2011,17/07/1926,M,TN,Approved Closed,Closed,,Unspecified sequelae of unspecified cerebrovascular disease,NH
+1610,1843,24/07/2013,03/07/2017,20/12/1927,M,MA,Approved Closed,Closed,,"Legal blindness, as defined in USA",
+1706,1957,29/05/2009,17/09/2009,15/01/1930,M,FL,Approved Closed,Closed,,NEOPLASMS OF UNSPECIFIED NATURE,NH
+1772,1984,20/08/2013,03/02/2014,12/11/1929,M,FL,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1359,1439,19/03/2012,06/01/2021,14/07/1923,F,WI,Approved Closed,Deceased,,PARKINSON'S DISEASE,NH
+1743,2013,01/05/2010,20/12/2019,04/01/1935,M,IA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1237,1137,23/07/2012,31/03/2018,07/06/1936,F,WA,Approved Closed,Closed,,"Degenerative disease of nervous system, unspecified",NH
+1251,1447,04/08/2007,24/02/2010,09/11/1935,F,MO,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1256,1646,13/12/2013,21/01/2014,06/05/1927,F,PA,Approved Closed,Closed,,"Heart disease, unspecified",
+1089,2123,09/11/2018,13/02/2021,16/04/1942,F,KS,Approved Closed,Closed,,Alzheimer's disease,NH
+1599,1820,15/10/2012,,23/12/1928,M,UT,Denied,Denied,,CHOLERA,
+1020,1353,12/06/2004,28/12/2004,26/08/1922,F,IA,Approved Closed,Closed,,CHOLERA,NH
+1736,1891,09/12/2003,31/10/2010,29/07/1930,M,GA,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1806,2065,20/06/2013,17/09/2018,26/01/1928,F,IL,Approved Closed,Closed,,Parkinson's disease,NH
+1685,1400,21/09/2019,,08/08/1936,F,CT,Denied,Denied,,CHOLERA,
+1306,1022,19/02/2016,14/11/2020,19/02/1935,F,NE,Approved Closed,Deceased,,Unspecified dementia without behavioral disturbance,NH
+1517,1153,18/06/2005,07/03/2005,21/11/1919,M,KS,Approved Closed,Closed,,MYONEURAL DISORDERS,NH
+1101,2056,20/02/2014,,23/06/1930,M,CA,Denied,Denied,,"Chronic obstructive pulmonary disease, unspecified",
+1517,1953,24/10/2011,23/11/2011,21/11/1919,M,KS,Approved Closed,Closed,,MYONEURAL DISORDERS,NH
+1079,1131,16/01/2017,23/11/2018,22/07/1928,F,FL,Approved Closed,Closed,,"Sepsis, unspecified organism",NH
+1247,1935,19/06/2018,02/04/2022,01/05/1929,F,OK,Approved-Reassessment,Approved,04/02/2022,Unspecified dementia without behavioral disturbance,HHC
+1983,1233,14/01/2017,21/09/2019,08/03/1923,F,WI,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1019,1143,31/05/2019,07/10/2022,07/09/1934,F,NE,Approved-Reassessment,Approved,10/07/2022,Unspecified dementia without behavioral disturbance,NH
+1867,1690,03/11/2017,29/06/2020,01/12/1934,M,OK,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",HHC
+1213,1876,10/04/2018,11/10/2018,30/03/1930,F,ID,Approved Closed,Closed,,"Heart failure, unspecified",HHC
+1213,1347,16/01/2016,08/10/2016,30/03/1930,F,ID,Approved Closed,Closed,,"Heart failure, unspecified",HHC
+1083,1648,12/04/2012,21/06/2018,28/08/1926,F,TN,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1340,1586,04/12/2013,29/12/2021,17/03/1927,F,CA,Approved-Reassessment,Approved,29/12/2021,"Spinal stenosis, site unspecified",HHC
+1263,1416,25/10/2020,13/09/2021,24/08/1928,F,AZ,Approved-Reassessment,Approved,13/09/2021,"Pain, unspecified",Alt Housing
+1383,1980,02/12/2013,25/03/2019,07/11/1924,M,VA,Approved Closed,Closed,,"Major depressive disorder, single episode, unspecified",NH
+1735,1254,28/04/2014,06/10/2014,04/02/1922,F,IA,Approved Closed,Closed,,"Cerebral infarction, unspecified",NH
+1348,1797,20/01/2017,23/05/2018,20/05/1922,F,FL,Approved Closed,Closed,,Muscle weakness (generalized),Other
+1288,1310,01/07/2017,,21/12/1928,F,KS,Denied,Denied,,CHOLERA,
+1625,1752,19/11/2014,12/03/2017,07/10/1924,F,NE,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1061,1595,29/03/2013,06/08/2013,01/02/1944,F,FL,Approved Closed,Closed,,"SPINAL STENOSIS, OTHER THAN CERVICAL",HHC
+1647,2044,11/08/2019,13/02/2020,24/09/1940,F,MS,Approved Closed,Deceased,,"Osteoarthritis, unspecified site",
+1260,1420,06/01/2021,,21/09/1939,F,TX,NEW,In Assessment,,,
+1160,1787,25/06/2018,,20/07/1934,M,NC,Denied,Denied,,"Chronic kidney disease, unspecified",
+1321,1205,22/10/2011,,25/02/1931,F,IA,Denied,Denied,,CHOLERA,
+1002,1092,03/03/2018,13/11/2021,16/08/1936,F,IA,Approved-Reassessment,Approved,13/11/2021,Primary generalized (osteo)arthritis,NH
+1992,1211,23/04/2020,13/02/2021,12/10/1931,M,OH,Approved Closed,Closed,,Parkinson's disease,NH
+1721,1068,09/03/2017,22/09/2019,19/09/1937,M,KS,Approved Closed,Closed,,Presence of artificial hip joint,NH
+1495,1441,17/09/2017,,02/03/1931,M,IL,Denied,Denied,,"Chronic obstructive pulmonary disease, unspecified",
+1422,1933,22/01/2018,,02/12/1931,F,FL,Denied,Denied,,Metabolic encephalopathy,
+1568,1111,25/12/2015,,26/06/1921,F,KS,Denied,Denied,,CHOLERA,
+1815,1055,04/06/2021,22/08/2021,17/07/1933,F,CA,Approved-Reassessment,In Assessment,22/08/2021,"Alzheimer's disease, unspecified",HHC
+1253,2037,20/05/2016,,09/01/1931,F,TX,Denied,Denied,,CHOLERA,
+1365,1721,11/02/2020,25/05/2022,22/10/1928,F,MI,Approved-Reassessment,Approved,25/05/2022,"Unsp fracture of unsp lumbar vertebra, init for clos fx",HHC
+1621,1337,03/10/2014,25/05/2018,25/01/1930,F,IA,Approved Closed,Closed,,Age-related osteoporosis w/o current pathological fracture,NH
+1458,1436,25/01/2017,21/01/2019,02/08/1936,M,VA,Approved Closed,Closed,,Muscle weakness (generalized),HHC
+1525,1571,12/03/2016,,20/03/1931,F,KS,Denied,Denied,,Muscle weakness (generalized),
+1897,1808,11/11/2019,04/12/2020,08/04/1933,F,NC,Approved Closed,Deceased,,Age-related osteoporosis w/o current pathological fracture,NH
+1386,1675,10/06/2011,,07/10/1939,F,FL,Denied,Denied,,CHOLERA,
+1526,1016,24/02/2011,28/03/2011,20/12/1930,F,GA,Approved Closed,Closed,,"Alzheimer's disease, unspecified",
+1515,1818,24/06/2012,18/12/2020,17/11/1928,M,FL,Approved Closed,Deceased,,"Malignant neoplasm of esophagus, unspecified",
+1719,1000,23/02/2018,,13/04/1930,M,OH,Denied,Denied,,"Alzheimer's disease, unspecified",
+1559,1654,11/06/2010,15/01/2011,14/11/1919,F,CT,Approved Closed,Closed,,"Chronic kidney disease, stage 4 (severe)",
+1011,1613,27/08/2012,,27/09/1922,M,FL,Denied,Denied,,PARKINSON'S DISEASE,
+1366,1224,24/04/2018,18/12/2021,21/08/1931,F,FL,Approved-Reassessment,Approved,18/12/2021,"Polyneuropathy, unspecified",NH
+1858,1835,12/11/2015,29/03/2016,08/09/1916,F,MO,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1287,1823,17/06/2018,23/11/2018,12/01/1930,F,WI,Approved Closed,Closed,,Cerebellar stroke syndrome,NH
+1425,1535,04/03/2018,15/06/2021,12/10/1933,F,TN,Approved Closed,Deceased,,"Alzheimer's disease, unspecified",NH
+1581,1890,09/01/2017,12/01/2019,06/06/1937,M,CA,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",HHC
+1044,2142,23/11/2014,,05/10/1934,M,NJ,Denied,Denied,,CHOLERA,
+1990,1091,08/11/2019,01/05/2020,13/05/1930,M,OH,Approved Closed,Closed,,Acute on chronic combined systolic and diastolic hrt fail,NH
+1481,1058,04/09/2013,17/05/2013,22/09/1934,M,CT,Approved Closed,Closed,,CANCER OF ESOPHAGUS,HHC
+1280,1231,19/11/2013,23/06/2015,28/11/1936,F,OH,Approved Closed,Closed,,Transverse fracture of shaft of humerus,NH
+1397,1611,30/04/2009,31/01/2010,04/06/1931,M,MT,Approved Closed,Closed,,ESSENTIAL HYPERTENSION,NH
+1517,1624,08/09/2010,15/08/2010,21/11/1919,M,KS,Approved Closed,Closed,,MYONEURAL DISORDERS,NH
+1298,2057,02/03/2020,05/10/2021,14/07/1928,F,TX,Approved Closed,Deceased,,"Pathological fracture, femur and pelvis",NH
+1118,1354,02/09/2011,,23/04/1936,F,GA,Denied,Denied,,CHOLERA,
+1438,1020,20/03/2021,08/06/2021,15/04/1928,F,FL,Approved-Reassessment,In Assessment,06/08/2021,"Mild cognitive impairment, so stated",Ind Prov
+1410,2122,04/09/2019,27/12/2021,17/05/1934,F,IA,Approved-Reassessment,Approved,27/12/2021,Unspecified fracture of the lower end of radius,NH
+1742,1548,25/06/2018,28/04/2019,04/11/1921,F,VA,Approved Closed,Closed,,Enterocolitis due to Clostridium difficile,NH
+1790,1631,29/06/2018,09/11/2021,22/06/1934,M,FL,Approved-Reassessment,Approved,,Unspecified dementia without behavioral disturbance,NH
+1051,1702,27/03/2021,17/08/2021,09/07/1923,F,FL,Approved-Reassessment,In Assessment,17/08/2021,Polyneuropathy in diseases classified elsewhere,HHC
+1430,1253,23/07/2018,12/05/2018,05/11/1936,F,KY,Approved Closed,Closed,,Alzheimer's disease with late onset,NH
+1199,2032,30/06/2015,,15/10/1930,F,PA,Denied,Denied,,CHOLERA,
+1328,1557,04/03/2018,19/02/2022,31/10/1931,F,TN,Approved-Reassessment,Approved,,Unspecified dementia without behavioral disturbance,NH
+1535,1274,26/03/2017,07/03/2017,25/02/1939,F,MN,Approved Closed,Closed,,"Myelodysplastic syndrome, unspecified",
+1129,1200,10/05/2014,,16/11/1932,F,CO,Denied,Denied,,CHOLERA,
+1692,1873,16/11/2015,29/12/2015,03/02/1930,F,IA,Approved Closed,Closed,,"Heart failure, unspecified",
+1487,1710,01/05/2021,02/06/2022,14/10/1929,F,VT,Approved-Reassessment,Approved,06/02/2022,Parkinson's disease,HHC
+1257,1599,30/11/2007,02/01/2010,13/07/1931,F,KY,Approved Closed,Closed,,OTHER CEREBRAL DEGENERATIONS,NH
+1190,1368,02/02/2018,07/02/2020,22/06/1931,F,NC,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1879,1541,24/05/2017,03/03/2019,17/03/1924,M,FL,Approved Closed,Closed,,History of falling,HHC
+1508,1377,13/09/2017,06/07/2018,15/11/1937,F,PA,Approved Closed,Closed,,Unspecified dementia,NH
+1261,1681,25/11/2019,27/05/2020,23/10/1929,F,IN,Approved Closed,Closed,,History of falling,NH
+1862,1902,05/04/2015,,20/10/1929,M,IA,Denied,Denied,,"CANCER OF TRACHEA, BRONCHUS, AND LUNG",
+1154,1285,23/08/2016,16/01/2019,02/11/1925,F,MO,Approved Closed,Closed,,"Unspecified osteoarthritis, unspecified site",NH
+1178,1552,03/04/2013,06/03/2018,31/05/1934,F,IA,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1903,1811,01/10/2014,25/03/2019,07/07/1929,M,WA,Approved Closed,Closed,,Parkinson's disease,HHC
+1203,1553,03/01/2021,22/12/2021,27/09/1931,F,OR,Approved-Reassessment,Approved,22/12/2021,Unspecified dementia without behavioral disturbance,HHC
+1616,1130,23/11/2018,01/01/2022,19/12/1958,F,IA,Approved-Reassessment,Approved,01/01/2022,Dementia in oth diseases classd elswhr w behavioral disturb,Alt Housing
+1324,2114,06/05/2018,04/04/2019,05/03/1929,M,NH,Approved Closed,Closed,,Unspecified fracture of unspecified femur,HHC
+1024,1819,23/04/2021,,13/09/1927,F,MI,Withdrawn,Closed,,"Age-rel osteopor w current path fracture, vertebra(e), init",
+1818,1468,01/08/2018,10/06/2018,02/04/1923,F,CT,Approved Closed,Closed,,Repeated falls,HHC
+1585,1073,20/05/2018,23/01/2019,30/07/1925,M,OK,Approved Closed,Closed,,"Heart failure, unspecified",HHC
+1413,1195,23/11/2016,,18/09/1934,F,KS,Denied,Denied,,"Heart failure, unspecified",
+1813,1235,15/02/2013,06/10/2013,01/08/1927,M,OH,Approved Closed,Closed,,OTHER ORGANIC PSYCHOTIC CONDITIONS (CHRONIC),NH
+1655,1519,21/07/2015,,05/01/1942,F,WI,Denied,Denied,,"Cerebrovascular disease, unspecified",
+1572,1742,03/10/2015,25/08/2020,02/10/1933,F,KS,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",NH
+1230,1340,21/07/2018,29/07/2020,02/04/1938,F,TX,Approved Closed,Closed,,Dementia in oth diseases classd elswhr w behavioral disturb,NH
+1265,2090,04/12/2021,31/05/2022,04/10/1929,M,TN,Approved-Reassessment,Approved,31/05/2022,Unspecified dementia without behavioral disturbance,
+1886,2029,23/07/2017,,16/08/1939,F,PA,Denied,Denied,,CHOLERA,
+1055,2111,17/01/2016,,28/10/1934,M,TX,Denied,Denied,,CHOLERA,
+1179,1572,14/01/2014,31/01/2014,25/11/1930,F,IA,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1372,2097,03/02/2021,27/05/2021,20/03/1935,F,OK,Approved Closed,Deceased,,Parkinson's disease,Alt Housing
+1733,1121,18/04/2016,31/05/2019,16/05/1930,M,FL,Approved Closed,Closed,,Type 2 diabetes mellitus,NH
+1936,1237,19/02/2013,31/08/2015,10/12/1923,M,MN,Approved Closed,Closed,,Oth symptoms and signs w cognitive functions and awareness,NH
+1280,1574,03/05/2018,05/11/2018,28/11/1936,F,OH,Approved Closed,Closed,,Transverse fracture of shaft of humerus,NH
+1117,1907,26/08/2016,,21/11/1931,F,FL,Denied,Denied,,CHOLERA,
+1838,2091,02/12/2018,20/05/2019,13/07/1928,M,PA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1549,1186,20/09/2016,23/06/2017,05/03/1937,F,IA,Approved Closed,Closed,,Unspecified dementia with behavioral disturbance,NH
+1868,1663,17/02/2015,24/05/2020,15/05/1927,M,TX,Approved Closed,Closed,,Cerebral infarction due to thombos unsp cerebral artery,NH
+1726,1629,13/01/2015,,30/06/1925,M,LA,Denied,Denied,,CHOLERA,
+1844,1084,23/04/2020,,04/04/1925,M,WI,Denied,Denied,,Unspecified macular degeneration,
+1505,1486,04/01/2016,21/04/2018,16/02/1928,F,TN,Approved Closed,Closed,,Repeated falls,HHC
+1335,1543,15/12/2015,23/02/2016,02/03/1928,F,OR,Approved Closed,Closed,,History of falling,NH
+1780,1502,29/02/2020,15/10/2020,20/01/1931,F,OK,Approved Closed,Deceased,,Unspecified dementia,NH
+1663,1003,03/12/2020,20/04/2020,19/03/1932,F,TX,Approved Closed,Closed,,Parkinson's disease,NH
+1488,1601,19/04/2019,27/02/2020,15/01/1923,F,IL,Approved Closed,Closed,,History of falling,NH
+1336,1727,23/10/2010,15/05/2018,04/10/1934,M,MT,Approved Closed,Closed,,Occlusion and stenosis of unspecified middle cerebral artery,HHC
+1637,1125,23/09/2007,25/09/2007,02/01/1948,F,SC,Approved Closed,Closed,,NEUROTIC DISORDERS,
+1440,1467,15/11/2008,18/12/2008,30/04/1924,F,WI,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1696,1305,23/05/2021,,26/10/1930,M,CA,NEW,In Assessment,,,
+1677,1991,22/12/2017,20/02/2019,21/07/1928,M,WA,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1710,1102,12/12/2011,22/09/2020,26/07/1923,F,KY,Approved Closed,Deceased,,Primary generalized (osteo)arthritis,HHC
+1054,1988,13/08/2016,12/04/2018,01/06/1929,M,MD,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1472,1503,17/09/2016,23/12/2018,17/04/1927,M,MT,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1071,2116,14/04/2018,28/04/2023,01/12/1931,F,MN,Approved-Reassessment,Approved,,"Cerebral infarction, unspecified",NH
+1807,1461,31/03/2018,13/08/2021,26/07/1925,M,PA,Approved-Reassessment,Approved,13/08/2021,Unspecified dementia without behavioral disturbance,NH
+1857,1922,11/12/2013,28/11/2019,23/01/1923,F,IN,Approved Closed,Closed,,Unspecified dementia with behavioral disturbance,NH
+1364,1736,19/03/2018,,08/02/1932,F,GA,Denied,Denied,,"Malignant neoplasm of bladder, unspecified",
+1061,1331,25/03/2012,16/05/2012,01/02/1944,F,FL,Approved Closed,Closed,,"SPINAL STENOSIS, OTHER THAN CERVICAL",HHC
+1487,1492,03/01/2019,05/10/2020,14/10/1929,F,VT,Approved Closed,Closed,,Parkinson's disease,HHC
+1138,2051,15/05/2021,,07/06/1925,M,SD,NEW,In Assessment,,Unspecified systolic (congestive) heart failure,
+1570,1090,22/03/2020,,13/04/1931,F,IA,Denied,Denied,,"Cerebral infarction, unspecified",
+1417,1393,09/02/2008,10/03/2008,13/10/1925,M,TX,Approved Closed,Closed,,FRACTURE OF HIP,HHC
+1130,1642,18/08/2017,07/08/2019,08/11/1923,F,NH,Approved Closed,Closed,,Oth mental disorders due to known physiological condition,NH
+1613,1609,28/12/2019,31/05/2021,18/04/1921,M,OR,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1022,1912,22/04/2004,24/05/2004,13/06/1929,F,FL,Approved Closed,Closed,,Unspecified convulsions,HHC
+1483,1598,18/12/2019,01/03/2022,14/11/1943,F,TX,Approved-Reassessment,Approved,03/01/2022,Unspecified dementia without behavioral disturbance,NH
+1302,1335,26/07/2015,10/11/2018,27/08/1925,F,TX,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1711,1366,11/08/2020,24/01/2022,20/10/1932,F,IL,Approved-Reassessment,Approved,24/01/2022,Unspecified systolic (congestive) heart failure,Ind Prov
+1811,1087,14/04/2019,15/03/2021,10/01/1930,M,MN,Approved Closed,Deceased,,Unspecified dementia,HHC
+1396,1057,23/02/2018,,25/08/1948,M,KY,Denied,Denied,,Other hydrocephalus,
+1648,1027,15/09/2019,13/06/2022,24/12/1927,F,IL,Approved-Reassessment,Approved,13/06/2022,Repeated falls,NH
+1875,1074,28/11/2015,24/01/2018,12/07/1925,M,IL,Approved Closed,Closed,,Muscle weakness (generalized),NH
+1113,1067,31/05/2012,20/08/2012,20/01/1930,F,MA,Approved Closed,Closed,,"Cerebral infarction, unspecified",
+1765,2159,27/11/2018,,28/12/1928,F,NC,Denied,Denied,,CHOLERA,
+1606,1319,08/11/2017,07/12/2021,29/05/1927,F,CA,Approved Closed,Denied,,Age-related osteoporosis w/o current pathological fracture,
+1709,1905,13/08/2018,29/10/2020,04/10/1929,F,IA,Approved Closed,Closed,,Alzheimer's disease,NH
+1848,1566,30/09/2014,,09/03/1937,M,GA,Denied,Denied,,CHOLERA,
+1989,1581,28/12/2003,19/01/2004,12/01/1923,M,TX,Approved Closed,Closed,,FRACTURE OF HIP,NH
+1213,1291,10/05/2017,10/06/2017,30/03/1930,F,ID,Approved Closed,Closed,,"Heart failure, unspecified",HHC
+1881,1425,01/10/2021,07/11/2022,02/08/1935,M,NC,Approved-Reassessment,Approved,11/07/2022,Hemiplga fol oth ntrm intcrn hemor aff right nondom side,HHC
+1859,1807,24/02/2012,09/07/2021,02/12/1937,F,AR,Approved-Reassessment,Approved,07/09/2021,"Rheumatoid arthritis, unspecified",Ind Prov
+1214,1892,23/04/2016,15/01/2019,07/06/1923,M,MN,Approved Closed,Closed,,Acute on chronic diastolic (congestive) heart failure,HHC
+1007,1550,26/07/2005,24/09/2006,29/03/1928,M,TX,Approved Closed,Closed,,"CANCER OF TRACHEA, BRONCHUS, AND LUNG",HHC
+1474,1297,21/03/2006,25/04/2006,10/09/1921,M,TN,Approved Closed,Closed,,COMMUNICABLE DISEASE OR INFECTION,
+1849,1171,03/11/2020,22/06/2022,27/01/1933,F,MO,Approved-Reassessment,Approved,22/06/2022,"Myositis, unspecified",Alt Housing
+1107,1785,07/11/2012,,26/05/1924,M,MO,Denied,Denied,,CHOLERA,
+1795,1761,21/07/2008,09/09/2008,11/08/1932,F,VA,Approved Closed,Closed,,Primary generalized (osteo)arthritis,NH
+1222,1403,24/04/2017,16/09/2017,28/01/1943,F,KY,Approved Closed,Closed,,"Malignant neoplasm of brain, unspecified",HHC
+1108,1527,17/05/2021,20/06/2022,02/05/1922,F,IA,Approved-Reassessment,Approved,20/06/2022,"Chronic kidney disease, stage 3 (moderate)",NH
+1940,1921,10/08/2014,27/11/2015,05/08/1929,M,CO,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1370,1060,27/01/2020,01/10/2021,19/09/1945,F,PA,Approved Closed,Denied,,Syncope and collapse,
+1435,1750,03/12/2011,24/10/2013,03/04/1923,M,MO,Approved Closed,Closed,,Hemiplga fol unsp cerebvasc disease aff right dominant side,NH
+1823,1844,03/11/2017,24/07/2020,02/02/1929,F,KS,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1748,1268,23/09/2017,23/09/2020,10/09/1931,M,KY,Approved Closed,Closed,,"Illness, unspecified",NH
+1757,1976,26/03/2019,,09/12/1926,F,IL,Denied,Denied,,CHOLERA,
+1651,2049,20/01/2021,16/03/2022,07/02/1924,F,IA,Approved-Reassessment,Approved,16/03/2022,Unspecified dementia without behavioral disturbance,
+1604,1858,31/12/2018,02/04/2021,31/07/1934,F,WV,Approved Closed,Deceased,,Unspecified dementia with behavioral disturbance,NH
+1595,1824,11/06/2018,11/12/2020,07/10/1936,F,MS,Approved Closed,Deceased,,Unspecified fracture of sacrum,Ind Prov
+1861,1753,21/07/2013,08/03/2014,01/05/1929,F,OR,Approved Closed,Closed,,"CANCER, METASTATIC",Other
+1717,1432,03/10/2017,20/04/2020,04/12/1925,F,MI,Approved Closed,Closed,,"Mild cognitive impairment, so stated",NH
+1300,2060,21/07/2015,,10/09/1930,M,IN,Denied,Denied,,LYMPHOSARCOMA AND RETICULOSARCOMA,
+1521,1193,14/04/2018,24/07/2020,04/04/1925,M,AZ,Approved Closed,Closed,,Repeated falls,NH
+1830,1152,06/08/2013,10/08/2013,19/06/1929,F,ID,Approved Closed,Closed,,"Alzheimer's disease, unspecified",HHC
+1561,1755,22/07/2006,19/03/2011,02/11/1930,F,OH,Approved Closed,Closed,,PARKINSON'S DISEASE,HHC
+1378,1364,29/11/2018,,20/06/1935,M,TX,Denied,Denied,,Malignant neoplasm of unsp part of unsp bronchus or lung,
+1691,1373,19/09/2011,14/02/2012,17/12/1927,F,MN,Approved Closed,Closed,,Unspecified dementia with behavioral disturbance,
+1660,1330,10/04/2015,23/08/2018,12/10/1929,F,NC,Approved Closed,Closed,,"Unspecified osteoarthritis, unspecified site",NH
+1463,2004,29/07/2019,,22/05/1928,F,IN,Denied,Denied,,Unspecified dementia without behavioral disturbance,
+1758,1726,31/01/2020,,14/11/1932,M,FL,Denied,Denied,,CHOLERA,
+1528,1184,11/05/2019,13/03/2020,20/11/1931,M,MI,Approved Closed,Closed,,Muscle weakness (generalized),NH
+1418,1784,09/04/2015,18/09/2021,27/06/1926,M,FL,Approved-Reassessment,Approved,,"Chronic obstructive pulmonary disease, unspecified",
+1714,1932,09/07/2012,06/05/2018,11/12/1934,F,MO,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1464,1943,27/07/2012,,07/03/1934,F,FL,Denied,Denied,,Unspecified atrial fibrillation,
+1374,2048,19/02/2001,,30/08/1942,M,MN,Denied,Denied,,CHOLERA,
+1942,1928,16/10/2015,,27/12/1931,F,IA,Denied,Denied,,CHOLERA,
+1043,1046,03/12/2021,17/11/2021,07/02/1937,F,IN,Approved-Reassessment,Approved,17/11/2021,Muscle weakness (generalized),HHC
+1552,1657,03/02/2019,,24/02/1929,F,KS,Denied,Denied,,Repeated falls,
+1318,2022,23/03/2021,10/10/2021,18/09/1928,F,IA,Approved-Reassessment,Approved,10/10/2021,"Displaced intertroch fx r femur, init for opn fx type 3A/B/C",NH
+1689,1547,22/09/2015,23/08/2016,05/09/1937,F,NC,Approved Closed,Closed,,Malignant neoplasm of frontal lobe,HHC
+1645,1239,06/07/2015,28/01/2021,29/04/1930,F,KS,Approved Closed,Deceased,,Other amnesia,NH
+1596,1458,13/05/2019,08/02/2019,06/02/1934,M,SC,Approved Closed,Closed,,"Cerebral infarction, unspecified",HHC
+1744,1626,08/09/2013,,02/08/1946,M,KS,Denied,Denied,,CHOLERA,
+1795,1660,20/01/2019,21/01/2019,11/08/1932,F,VA,Approved Closed,Closed,,Primary generalized (osteo)arthritis,HHC
+1082,1802,01/08/2016,,12/02/1928,M,UT,Denied,Denied,,Hyp hrt & chr kdny dis w hrt fail and stg 1-4/unsp chr kdny,
+1137,1452,04/01/2017,20/06/2018,27/11/1931,M,IN,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1452,1617,27/02/2017,23/06/2021,10/04/1939,M,NC,Approved-Reassessment,Approved,23/06/2021,ST elevation (STEMI) myocardial infarction of unsp site,NH
+1031,1952,23/11/2018,02/08/2022,21/08/1933,F,TN,Approved-Reassessment,Approved,,Alzheimer's disease,NH
+1618,2076,03/01/2019,,18/06/1932,F,CO,Denied,Denied,,Personal history of malig neoplasm of eye and nervous tissue,
+1841,1182,25/07/2015,,06/02/1922,F,MO,Denied,Denied,,CORNEAL OPACITY AND OTHER DISORDERS OF CORNEA,
+1489,1903,24/01/2017,09/04/2019,08/01/1928,F,FL,Approved Closed,Closed,,"Heart failure, unspecified",
+1565,1959,23/03/2015,22/02/2016,27/05/1937,F,FL,Approved Closed,Closed,,"Cerebral infarction, unspecified",
+1798,1920,17/08/2017,13/10/2021,03/02/1932,M,LA,Approved-Reassessment,Approved,13/10/2021,"Alzheimer's disease, unspecified",NH
+1740,1662,08/10/2015,29/03/2020,25/09/1924,F,IN,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1139,1960,26/09/2014,18/12/2020,13/11/1929,M,CA,Approved Closed,Deceased,,Unspecified systolic (congestive) heart failure,NH
+1872,1888,28/10/2017,21/11/2018,12/01/1936,M,IL,Approved Closed,Closed,,"Heart failure, unspecified",HHC
+1444,1214,18/03/2019,23/06/2020,25/07/1928,F,IA,Approved Closed,Closed,,Alzheimer's disease,NH
+1229,1444,30/11/2019,01/03/2022,25/12/1928,F,OR,Approved-Reassessment,Approved,03/01/2022,Alzheimer's disease with late onset,NH
+1941,1012,21/07/2014,20/12/2018,20/03/1929,M,IN,Approved Closed,Closed,,Athscl heart disease of native coronary artery w/o ang pctrs,NH
+1354,1290,18/11/2016,10/01/2019,29/03/1938,F,CA,Approved Closed,Closed,,Type 2 diabetes mellitus without complications,NH
+1109,1938,12/06/2020,24/04/2021,03/03/1934,F,SD,Approved Closed,Deceased,,Age-related physical debility,HHC
+1376,1408,24/12/2019,16/02/2021,16/04/1933,F,NE,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1062,1048,22/03/2021,18/10/2021,19/07/1929,F,OK,Approved-Reassessment,Approved,18/10/2021,"Chronic obstructive pulmonary disease, unspecified",
+1788,1009,30/01/2016,14/06/2016,24/10/1927,F,NC,Approved Closed,Closed,,"Gastrointestinal hemorrhage, unspecified",HHC
+1161,1507,07/06/2019,30/10/2019,13/03/1925,F,CT,Approved Closed,Closed,,Alzheimer's disease,NH
+1715,1428,10/07/2016,05/10/2021,14/02/1931,F,FL,Approved Closed,Deceased,,Unspecified dementia without behavioral disturbance,NH
+1555,1476,23/09/2014,05/10/2019,30/06/1924,F,TX,Approved Closed,Closed,,Age-related osteoporosis w/o current pathological fracture,NH
+1762,1839,23/02/2009,05/06/2010,11/09/1926,M,TX,Approved Closed,Closed,,CONGESTIVE HEART FAILURE,HHC
+1775,1538,21/01/2019,,18/09/1927,M,KS,Denied,Denied,,Repeated falls,
+1307,1487,27/05/2011,28/01/2012,15/08/1931,M,WA,Approved Closed,Closed,,OTHER CEREBRAL DEGENERATIONS,NH
+1103,1841,26/07/2016,29/05/2019,01/10/1921,F,MO,Approved Closed,Closed,,Muscle weakness (generalized),NH
+1416,1910,12/09/2009,03/06/2011,30/05/1934,M,KS,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1012,1497,21/09/2020,,12/12/1934,F,OR,Denied,Denied,,Low back pain,
+1530,1986,25/06/2016,25/03/2021,06/06/1933,F,IA,Approved Closed,Deceased,,Unspecified dementia without behavioral disturbance,NH
+1961,1612,04/04/2021,08/04/2021,31/08/1927,F,IA,Approved-Reassessment,In Assessment,04/08/2021,Muscle weakness (generalized),NH
+1923,1885,22/03/2011,26/03/2012,10/11/1921,M,WA,Approved Closed,Closed,,ORGANIC BRAIN SYNDROME,NH
+1787,1398,08/05/2018,02/09/2019,17/09/1921,M,IL,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1754,1309,29/11/2020,05/03/2021,28/12/1931,F,MO,Approved Closed,Deceased,,Unspecified systolic (congestive) heart failure,HHC
+1276,1197,26/02/2011,24/11/2014,29/09/1933,F,IN,Approved Closed,Closed,,FRACTURE OF HUMERUS,NH
+1713,1065,25/09/2017,23/06/2018,22/09/1933,F,KY,Approved Closed,Closed,,Type 2 diabetes w diabetic peripheral angiopath w/o gangrene,NH
+1819,1154,22/09/2007,03/01/2011,08/01/1926,M,SC,Approved Closed,Closed,,PARKINSON'S DISEASE,NH
+1652,1493,20/04/2020,19/05/2023,06/03/1923,M,VA,Approved-Reassessment,Approved,19/05/2023,Alzheimer's disease,NH
+1898,1099,23/12/2017,07/09/2021,19/09/1933,F,AZ,Approved-Reassessment,In Assessment,09/07/2021,"Primary osteoarthritis, unspecified site",NH
+1419,1915,03/09/2019,27/04/2022,16/12/1939,F,MO,Approved-Reassessment,Approved,27/04/2022,Alzheimer's disease with late onset,HHC
+1097,1940,27/01/2015,18/07/2017,13/04/1928,M,IL,Approved Closed,Closed,,Hyp hrt & chr kdny dis w hrt fail and stg 1-4/unsp chr kdny,NH
+1958,1042,29/09/2012,07/02/2013,04/12/1930,M,FL,Approved Closed,Closed,,"Alzheimer's disease, unspecified",
+1234,1768,03/06/2017,24/07/2020,17/10/1933,F,MA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1493,2040,31/12/2018,27/12/2020,27/07/1924,F,CA,Approved Closed,Deceased,,Muscle weakness (generalized),NH
+1939,1944,04/03/2017,28/08/2018,12/12/1930,F,MI,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1473,1106,25/08/2018,17/01/2022,23/03/1932,F,SC,Approved-Reassessment,Approved,17/01/2022,Weakness,NH
+1050,1647,21/05/2021,06/01/2022,25/02/1931,F,IA,Approved-Reassessment,Approved,01/06/2022,"Unspecified osteoarthritis, unspecified site",NH
+1454,1056,22/04/2018,29/09/2018,07/03/1926,F,IN,Approved Closed,Closed,,"Altered mental status, unspecified",NH
+1497,1862,12/10/2013,05/02/2018,31/10/1928,M,IA,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",NH
+1448,1801,25/05/2013,29/06/2013,17/11/1932,M,CT,Approved Closed,Closed,,"CANCER OF TRACHEA, BRONCHUS, AND LUNG",Personal Care
+1423,1215,01/12/2019,24/12/2019,13/12/1933,M,MO,Approved Closed,Closed,,"Cerebral infarction, unspecified",HHC
+1122,1916,26/01/2020,28/04/2023,12/07/1943,F,TN,Approved-Reassessment,Approved,,"Alzheimer's disease, unspecified",Alt Housing
+1028,1764,08/05/2017,06/11/2018,22/09/1930,M,NH,Approved Closed,Closed,,"Difficulty in walking, not elsewhere classified",NH
+1737,1383,05/12/2014,07/08/2018,30/06/1940,F,VA,Approved Closed,Closed,,Parkinson's disease,NH
+1266,1343,09/07/2015,21/12/2018,09/11/1924,F,CA,Approved Closed,Closed,,Alpers disease,NH
+1878,1926,20/05/2019,22/08/2019,19/06/1923,F,IA,Approved Closed,Closed,,Traumatic subdural hemorrhage,NH
+1377,1711,23/12/2012,,20/04/1931,F,ME,Denied,Denied,,"CANCER OF TRACHEA, BRONCHUS, AND LUNG",
+1681,2081,25/11/2013,23/02/2014,26/08/1929,M,DE,Approved Closed,Closed,,Chronic obstructive pulmonary disease w (acute) exacerbation,
+1916,1351,24/07/2015,09/06/2015,15/03/1928,F,TN,Approved Closed,Closed,,History of falling,
+1630,1954,20/07/2015,,10/01/1930,F,GA,Denied,Denied,,Muscle weakness (generalized),
+1559,1332,24/10/2017,14/12/2019,14/11/1919,F,CT,Approved Closed,Closed,,"Chronic kidney disease, stage 4 (severe)",NH
+1641,1207,10/02/2015,,10/07/1937,M,CT,Denied,Denied,,CHOLERA,
+1339,1803,21/11/2009,08/10/2010,20/10/1936,M,IN,Approved Closed,Closed,,DISEASES OF WHITE BLOOD CELLS,
+1297,1501,22/03/2021,,06/11/1939,F,CA,Withdrawn,Closed,,Dementia in oth diseases classd elswhr w/o behavrl disturb,
+1332,1877,08/09/2015,24/12/2020,28/02/1926,F,CA,Approved Closed,Deceased,,Polyneuropathy in diseases classified elsewhere,NH
+1414,2059,01/05/2020,,02/01/1937,M,KS,Denied,Denied,,CHOLERA,
+1058,1339,14/08/2015,,21/07/1926,F,VA,Denied,Denied,,CHOLERA,
+1439,1852,01/11/2021,25/09/2020,29/06/1925,F,IA,Approved Closed,Deceased,,Other Alzheimer's disease,NH
+1182,1810,27/09/2011,05/06/2014,04/07/1921,M,MD,Approved Closed,Closed,,OTHER ORGANIC PSYCHOTIC CONDITIONS (CHRONIC),HHC
+1577,1203,20/10/2009,23/01/2010,09/07/1926,F,MN,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",
+1700,1264,18/02/2020,28/03/2020,08/03/1930,F,OH,Approved Closed,Closed,,"Malignant neoplasm of pancreas, unspecified",HHC
+1869,1682,28/02/2019,29/08/2019,25/02/1932,M,NE,Approved Closed,Closed,,Parkinson's disease,NH
+1045,1026,01/01/2018,14/04/2020,26/12/1922,F,ID,Approved Closed,Closed,,Age-related physical debility,HHC
+1404,1800,23/04/2016,03/11/2019,02/09/1937,M,KS,Approved Closed,Closed,,Cerebral infarction due to thombos unsp cerebral artery,NH
+1974,1120,27/12/2019,05/08/2020,25/05/1928,M,FL,Approved Closed,Closed,,Repeated falls,HHC
+1931,2075,30/06/2017,10/04/2019,07/04/1931,F,GA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1319,1277,23/11/2014,23/12/2017,17/08/1928,M,NE,Approved Closed,Closed,,Athscl heart disease of native coronary artery w/o ang pctrs,NH
+1574,2151,12/05/2017,05/09/2019,10/06/1927,M,IA,Approved Closed,Closed,,Parkinson's disease,NH
+1478,1426,24/10/2003,21/04/2007,01/09/1933,M,GA,Approved Closed,Closed,,PARKINSON'S DISEASE,NH
+1407,1521,17/08/2008,19/09/2018,08/03/1924,F,MA,Approved Closed,Closed,,OSTEOARTHROSIS AND ALLIED DISORDERS,HHC
+1158,1146,27/04/2019,26/02/2021,12/02/1931,M,CA,Approved Closed,Deceased,,Pain in hip,NH
+1767,1241,23/11/2017,25/01/2020,28/06/1925,F,FL,Approved Closed,Closed,,"Mild cognitive impairment, so stated",NH
+1155,1415,09/07/2020,10/05/2021,07/02/1932,F,MA,Approved-Reassessment,Approved,05/10/2021,Vascular dementia without behavioral disturbance,NH
+1712,1390,04/10/2016,05/11/2019,05/04/1928,F,FL,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1980,1661,17/08/2012,05/11/2014,19/09/1932,M,MN,Approved Closed,Closed,,OTHER ORGANIC PSYCHOTIC CONDITIONS (CHRONIC),NH
+1948,1024,22/06/2012,23/06/2012,21/11/1914,F,IA,Approved Closed,Closed,,NONINFECTIOUS DISORDERS OF LYMPHATIC CHANNELS,
+1876,1086,18/09/2001,17/10/2001,30/08/1928,F,WI,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1746,2068,02/10/2006,12/07/2021,19/02/1936,F,CT,Approved-Reassessment,Approved,07/12/2021,Unspecified dementia without behavioral disturbance,HHC
+1248,1175,22/10/2019,24/12/2020,28/10/1934,F,CT,Approved Closed,Closed,,"Nontraumatic intracerebral hemorrhage, unspecified",HHC
+1165,1924,22/06/2020,,21/07/1927,M,KS,Denied,Denied,,History of falling,
+1195,1713,05/06/2011,,27/12/1928,F,PA,Denied,Denied,,CHOLERA,
+1346,1217,07/05/2019,,12/02/1933,F,CT,Denied,Denied,,CHOLERA,
+1991,1077,03/08/2021,,20/06/1938,M,KS,Withdrawn,Closed,,Unspecified dementia with behavioral disturbance,
+1387,2089,06/11/2007,11/02/2008,10/11/1928,F,NC,Approved Closed,Closed,,"Kaschin-Beck disease, unspecified site",Other
+1490,1673,28/02/2017,23/06/2020,06/09/1921,F,VA,Approved Closed,Closed,,History of falling,NH
+1731,2150,12/09/2008,07/07/2012,15/04/1923,M,FL,Approved Closed,Closed,,"STROKES, MULTIPLE",NH
+1636,1100,09/10/2014,01/06/2015,22/07/1930,F,FL,Approved Closed,Closed,,Unspecified fall,NH
+1344,2105,24/07/2019,01/12/2022,10/04/1926,F,OK,Approved-Reassessment,Approved,12/01/2022,Unspecified intracapsular fracture of femur,NH
+1239,1326,05/03/2019,09/02/2021,16/10/1931,M,AZ,Approved-Reassessment,In Assessment,,Unspecified dementia without behavioral disturbance,NH
+1657,1361,06/12/2017,21/03/2022,20/07/1935,M,OR,Approved-Reassessment,Approved,21/03/2022,Other idiopathic peripheral autonomic neuropathy,NH
+1929,1704,23/02/2011,24/11/2012,16/05/1929,M,PA,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1950,1474,05/10/2017,28/05/2019,19/10/1936,F,VA,Approved Closed,Closed,,"Neuromuscular scoliosis, site unspecified",HHC
+1924,1687,15/09/2013,07/03/2020,11/03/1931,M,ME,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1594,1651,02/03/2015,03/06/2016,11/04/1936,M,NE,Approved Closed,Closed,,"STROKE, CVA",NH
+1317,2104,25/07/2017,06/07/2019,14/11/1924,F,WA,Approved Closed,Closed,,Fracture of shaft of humerus,HHC
+1846,1035,09/09/2008,,24/04/1923,F,AR,Denied,Denied,,"STROKE, CVA",
+1541,1931,16/11/2020,01/06/2022,04/06/1932,F,OR,Approved-Reassessment,Approved,06/01/2022,History of falling,
+1457,1160,29/10/2014,28/05/2015,27/06/1929,M,FL,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1148,2043,03/07/2021,10/02/2021,07/03/1930,M,CA,Approved-Reassessment,Approved,02/10/2021,Unspecified dementia without behavioral disturbance,Personal Care
+1871,1738,29/08/2016,20/11/2018,25/07/1928,F,WI,Approved Closed,Closed,,Alzheimer's disease with early onset,HHC
+1617,1562,13/06/2018,11/04/2019,21/01/1923,F,NH,Approved Closed,Closed,,Fracture of unsp parts of lumbosacral spine and pelvis,NH
+1586,1919,25/05/2015,04/05/2021,18/05/1935,M,OH,Approved Closed,Closed,,"Mild cognitive impairment, so stated",HHC
+1667,1037,23/09/2018,,20/05/1923,M,TN,Denied,Denied,,"Pleural effusion, not elsewhere classified",
+1100,1558,05/03/2011,25/10/2011,29/04/1932,F,OH,Approved Closed,Closed,,"Alzheimer's disease, unspecified",
+1382,1739,23/02/2005,25/02/2006,11/08/1932,M,MO,Approved Closed,Closed,,DEMENTIA WITH LEWY BODIES,NH
+1698,1632,24/07/2016,27/03/2020,24/03/1924,F,TX,Approved Closed,Closed,,Other amnesia,NH
+1314,1226,18/03/2016,09/09/2018,26/10/1922,F,NH,Approved Closed,Closed,,Other fracture of head and neck of femur,HHC
+1962,1884,21/06/2017,,29/12/1930,F,NH,Denied,Denied,,"Emphysema, unspecified",
+1202,1128,12/12/2020,02/09/2022,30/05/1930,F,CT,Approved-Reassessment,Approved,09/02/2022,"Alzheimer's disease, unspecified",Alt Housing
+1081,1399,26/09/2020,28/01/2021,30/01/1932,F,WV,Approved Closed,Deceased,,"Alzheimer's disease, unspecified",NH
+1914,1188,31/07/2015,22/12/2015,10/10/1931,F,MO,Approved Closed,Closed,,FRACTURE OF HUMERUS,NH
+1176,1865,23/09/2011,30/06/2018,13/09/1933,F,VA,Approved Closed,Closed,,SPINAL CORD DISEASES,NH
+1055,1545,05/05/2014,,28/10/1934,M,TX,Denied,Denied,,CHOLERA,
+1313,1946,31/01/2014,11/10/2017,23/08/1931,M,KS,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1856,1404,10/05/2020,23/10/2020,03/02/1934,F,FL,Approved Closed,Deceased,,Malignant neoplasm of unsp part of unsp bronchus or lung,
+1993,1323,06/05/2015,09/01/2015,08/02/1928,M,PA,Approved Closed,Closed,,"DISORDERS OF MUSCLE, LIGAMENT, AND FASCIA",HHC
+1793,1127,31/10/2017,11/06/2017,02/08/1927,F,RI,Approved Closed,Closed,,Unspecified fall,NH
+1928,2169,28/02/2007,20/02/2009,01/10/1924,M,IL,Approved Closed,Closed,,FRACTURE OF HIP,NH
+1922,1418,26/04/2017,23/08/2020,18/12/1928,M,MD,Approved Closed,Closed,,Vascular dementia with behavioral disturbance,NH
+1889,2141,30/01/2021,15/03/2022,20/03/1929,F,OH,Approved-Reassessment,Approved,15/03/2022,Unspecified dementia with behavioral disturbance,NH
+1405,2160,15/07/2018,04/08/2019,21/10/1930,M,IA,Approved Closed,Closed,,Dependence on supplemental oxygen,HHC
+1925,1758,26/02/2016,17/09/2018,23/05/1928,M,CA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,Personal Care
+1951,2130,26/04/2016,,20/01/1941,F,IA,Denied,Denied,,Broken internal joint prosthesis,
+1750,1212,16/05/2014,04/01/2019,05/11/1931,F,MT,Approved Closed,Closed,,"Nontraumatic subarachnoid hemorrhage, unspecified",NH
+1863,1664,05/10/2017,30/11/2017,07/04/1933,M,MN,Approved Closed,Closed,,Alzheimer's disease with late onset,Alt Housing
+1567,1273,21/12/2015,02/08/2021,03/01/1934,M,WI,Approved Closed,Deceased,,Unspecified dementia,HHC
+1751,1334,03/02/2012,08/05/2017,07/02/1933,M,OK,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1063,1405,23/09/2016,31/12/2019,18/06/1924,F,NE,Approved Closed,Closed,,"Unspecified osteoarthritis, unspecified site",NH
+1839,1715,29/10/2018,02/12/2021,21/04/1930,F,MA,Approved Closed,Deceased,,Chronic inflammatory demyelinating polyneuritis,NH
+1392,2074,04/08/2017,09/05/2020,05/05/1934,M,WA,Approved Closed,Deceased,,Corticobasal degeneration,HHC
+1152,1349,01/03/2010,29/05/2014,10/11/1931,M,FL,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1669,1883,07/10/2009,23/11/2017,20/07/1933,F,SC,Approved Closed,Closed,,"Alzheimer's disease, unspecified",HHC
+1105,1223,16/11/2020,14/08/2021,14/08/1928,F,WA,Approved-Reassessment,Approved,14/08/2021,Alzheimer's disease with early onset,HHC
+1821,1151,13/12/2013,22/11/2019,27/11/1920,F,TX,Approved Closed,Closed,,Cereb infrc due to unsp occls or stenos of unsp cereb artery,HHC
+1132,1614,11/11/2014,28/04/2015,29/07/1940,F,OH,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,
+1997,1600,20/10/2017,09/02/2021,28/02/1927,F,MD,Approved-Reassessment,Approved,02/09/2021,"Other specified arthritis, unspecified site",HHC
+1842,1604,09/05/2010,23/10/2013,13/05/1934,F,OR,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1954,1014,23/06/2003,24/12/2003,14/06/1939,M,FL,Approved Closed,Closed,,FRACTURE OF HUMERUS,HHC
+1467,2166,11/05/2017,12/11/2018,26/08/1936,F,KS,Approved Closed,Closed,,Cardiomyopathy,NH
+1441,2126,19/04/2005,06/08/2005,21/01/1925,M,VA,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1191,2161,24/05/2019,,13/06/1924,M,FL,Denied,Denied,,"Chronic kidney disease, stage 3 (moderate)",
+1945,1419,13/09/2016,,18/05/1928,F,FL,Denied,Denied,,CHOLERA,
+1774,2054,10/10/2020,,19/09/1938,F,FL,Denied,Denied,,Age-related physical debility,
+1023,1667,11/02/2015,24/09/2016,29/12/1932,M,KS,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,Personal Care
+1428,2038,31/01/2014,01/10/2020,13/08/1933,M,NC,Approved Closed,Closed,,"Alzheimer's disease, unspecified",HHC
+1611,1763,03/11/2012,,02/01/1930,M,TN,Denied,Denied,,CHOLERA,
+1449,1164,31/12/2019,01/04/2021,25/11/1932,M,FL,Approved Closed,Closed,,Unspecified systolic (congestive) heart failure,HHC
+1732,1809,22/09/2018,01/10/2019,02/01/1934,F,IA,Approved Closed,Closed,,Parkinson's disease,NH
+1591,2025,22/03/2020,06/09/2023,12/03/1929,M,IA,Approved-Reassessment,Approved,,Unspecified dementia,NH
+1259,2152,26/10/2019,28/07/2021,12/11/1930,M,NJ,Approved-Reassessment,In Assessment,,Heart failure,HHC
+1066,1520,08/05/2016,05/09/2017,13/02/1930,M,KS,Approved Closed,Closed,,Vascular dementia without behavioral disturbance,NH
+1061,1172,01/06/2015,03/03/2015,01/02/1944,F,FL,Approved Closed,Closed,,"SPINAL STENOSIS, OTHER THAN CERVICAL",HHC
+1235,1724,04/09/2020,,27/04/1931,M,TX,Denied,Denied,,CHOLERA,
+1905,2069,16/03/2019,21/04/2022,06/11/1946,F,FL,Approved-Reassessment,Approved,,Parkinson's disease,HHC
+1151,1289,23/01/2019,09/11/2021,30/04/1924,F,WA,Approved-Reassessment,Approved,,Fracture of T11-T12 vertebra,NH
+1927,1327,11/04/2006,07/07/2016,07/05/1945,M,MI,Approved Closed,Closed,,CHOLERA,Other
+1223,1684,19/06/2016,28/05/2018,23/02/1931,F,MO,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1301,2086,09/11/2018,31/12/2018,17/06/1935,F,AZ,Approved Closed,Closed,,Unspecified fracture of femur,HHC
+1789,1561,06/11/2021,01/08/2022,28/02/1940,F,IA,Approved-Reassessment,Approved,08/01/2022,Paroxysmal atrial fibrillation,
+1763,1812,22/08/2020,15/09/2021,29/07/1930,F,WA,Approved-Reassessment,Approved,15/09/2021,"Hereditary and idiopathic neuropathy, unspecified",NH
+1764,1140,28/03/2021,16/10/2021,24/06/1924,M,IA,Approved-Reassessment,Approved,16/10/2021,Primary generalized (osteo)arthritis,Alt Housing
+1533,1887,10/07/2017,,02/01/1932,F,KS,Denied,Denied,,CHOLERA,
+1593,2036,24/04/2011,24/05/2011,29/03/1918,M,MN,Approved Closed,Closed,,"PNEUMONIA, ORGANISM UNSPECIFIED",
+1204,2128,06/02/2014,,17/08/1929,M,TN,Denied,Denied,,CHOLERA,
+1027,1089,16/09/2014,10/11/2015,08/12/1937,F,OR,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1563,1344,07/10/2018,11/12/2020,23/06/1934,M,IN,Approved Closed,Deceased,,Alzheimer's disease with late onset,NH
+1912,1744,08/11/2014,,01/06/1929,M,VA,Denied,Denied,,CHOLERA,
+1982,1917,22/08/2014,04/11/2021,04/10/1930,F,OH,Approved Closed,Denied,,"Unspecified osteoarthritis, unspecified site",Alt Housing
+1739,1126,23/03/2018,23/08/2018,04/12/1934,F,PA,Approved Closed,Closed,,Malignant neoplasm of unsp part of unsp bronchus or lung,HHC
+1308,1671,11/06/2015,22/11/2018,24/10/1934,F,CA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,Alt Housing
+1183,1047,23/08/2006,06/06/2007,07/08/1923,F,IL,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1233,1645,07/11/2017,24/07/2020,12/09/1924,F,SC,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1211,1191,26/06/2018,22/11/2021,05/07/1929,M,MS,Approved-Reassessment,Approved,22/11/2021,Bullous pemphigoid,HHC
+1143,1094,26/12/2017,06/02/2020,13/04/1928,F,FL,Approved Closed,Closed,,"Prsnl hx of TIA (TIA), and cereb infrc w/o resid deficits",NH
+1327,1270,29/06/2004,,07/01/1923,M,IA,Denied,Denied,,CHOLERA,
+1639,1859,10/09/2017,23/10/2018,16/02/1932,M,TN,Approved Closed,Closed,,Unspecified atrial fibrillation,HHC
+1496,1568,12/03/2018,02/05/2022,07/05/1934,M,TX,Approved-Reassessment,Approved,05/02/2022,"Intervertebral disc disorders with myelopathy, lumbar region",HHC
+1477,1148,09/09/2017,23/01/2021,25/09/1925,F,NH,Approved Closed,Closed,,Polyneuropathy in diseases classified elsewhere,
+1501,1488,12/03/2013,04/06/2014,27/02/1929,F,OK,Approved Closed,Closed,,History of falling,NH
+1440,1002,16/06/2019,23/05/2020,30/04/1924,F,WI,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1125,2140,24/07/2008,09/03/2021,12/04/1924,F,IA,Approved-Reassessment,In Assessment,,"Cerebral infarction, unspecified",NH
+1446,1132,01/12/2016,03/05/2020,27/07/1937,F,MA,Approved Closed,Closed,,Unspecified dementia,Other
+1675,1901,24/05/2017,29/11/2019,02/12/1921,F,KS,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",HHC
+1232,1198,29/10/2013,,22/12/1927,F,CO,Denied,Denied,,PARKINSON'S DISEASE,
+1403,1491,02/05/2017,24/07/2020,10/06/1923,F,OH,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1421,1062,09/02/2012,12/02/2012,13/02/1933,M,GA,Approved Closed,Closed,,HEART FAILURE,HHC
+1280,2055,15/04/2017,23/06/2017,28/11/1936,F,OH,Approved Closed,Closed,,Transverse fracture of shaft of humerus,NH
+1482,2156,23/02/2010,06/08/2010,04/05/1927,M,FL,Approved Closed,Closed,,OTHER DISEASES OF LUNG,NH
+1398,1113,21/11/2014,30/03/2015,02/12/1925,M,GA,Approved Closed,Closed,,FRACTURE OF CLAVICLE,HHC
+1450,2125,19/06/2018,,09/10/1929,F,NH,Denied,Denied,,"Cerebrovascular disease, unspecified",
+1896,2155,21/10/2014,20/06/2018,30/03/1922,F,IL,Approved Closed,Closed,,FRACTURE OF OTHER AND UNSPECIFIED PARTS OF FEMUR,NH
+1934,1221,10/03/2017,11/09/2018,26/12/1929,F,PA,Approved Closed,Closed,,Heart failure,NH
+1049,1407,15/12/2018,22/06/2020,06/04/1931,M,MA,Approved Closed,Closed,,Parkinson's disease,Alt Housing
+1893,1097,01/06/2015,02/04/2018,29/04/1940,F,IL,Approved Closed,Closed,,Unspecified abnormalities of gait and mobility,NH
+1777,1232,11/10/2020,25/07/2021,21/10/1930,F,TX,Approved-Reassessment,Approved,25/07/2021,"Chronic obstructive pulmonary disease, unspecified",Alt Housing
+1304,1208,30/12/2007,24/07/2010,06/10/1925,F,NC,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1622,1156,29/10/2011,12/02/2011,10/11/1932,F,FL,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",HHC
+1245,1147,05/02/2016,,24/05/1936,M,PA,Denied,Denied,,CHOLERA,
+1047,1054,25/01/2019,,19/10/1926,M,LA,Denied,Denied,,CHOLERA,
+1523,1402,21/08/2015,23/04/2017,07/08/1931,M,MO,Approved Closed,Closed,,Unspecified systolic (congestive) heart failure,NH
+1366,1950,23/12/2016,06/05/2017,21/08/1931,F,FL,Approved Closed,Closed,,"Polyneuropathy, unspecified",HHC
+1858,1718,05/07/2019,,08/09/1916,F,MO,Withdrawn,Closed,,Unspecified dementia without behavioral disturbance,
+1773,1356,29/10/2018,08/01/2020,30/03/1928,F,SC,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1210,1257,12/12/2020,03/12/2021,04/07/1927,M,MA,Approved Closed,Deceased,,"Heart failure, unspecified",NH
+1593,1446,24/12/2009,02/01/2010,29/03/1918,M,MN,Approved Closed,Closed,,"PNEUMONIA, ORGANISM UNSPECIFIED",
+1427,2066,24/05/2018,19/11/2018,13/01/1934,M,TX,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1900,1315,28/05/2018,12/04/2021,31/07/1932,F,NC,Approved-Reassessment,Approved,04/12/2021,Other hyperlipidemia,Alt Housing
+1703,1411,04/01/2006,02/11/2018,26/10/1919,F,CO,Approved Closed,Closed,,"Kaschin-Beck disease, unspecified site",HHC
+1168,1740,28/10/2018,29/12/2019,16/08/1929,M,MN,Approved Closed,Closed,,Alzheimer's disease,NH
+1140,1437,29/12/2020,02/05/2021,08/06/1936,F,NC,Approved Closed,Deceased,,Malignant neoplasm of unsp part of unsp bronchus or lung,Personal Care
+1571,1222,19/10/2015,03/11/2022,24/11/1935,M,IL,Approved-Reassessment,Approved,11/03/2022,Parkinson's disease,NH
+1755,1680,02/08/2018,,15/08/1943,M,FL,Denied,Denied,,CHOLERA,
+1205,1504,26/07/2004,,26/11/1925,F,SC,Denied,Denied,,"MYOCARDIAL INFARCTION, NEW",
+1802,1813,27/05/2017,07/05/2018,08/03/1932,M,NC,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1518,1059,03/01/2014,,07/03/1924,M,TN,Denied,Denied,,CHOLERA,
+1305,1109,29/12/2016,01/02/2017,03/03/1929,F,MA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,
+1316,2011,06/11/2016,26/08/2020,12/08/1933,F,NC,Approved Closed,Deceased,,"Prsnl hx of TIA (TIA), and cereb infrc w/o resid deficits",HHC
+1792,2053,27/06/2011,09/04/2018,23/12/1921,F,CO,Approved Closed,Closed,,Athscl heart disease of native coronary artery w/o ang pctrs,NH
+1449,1775,17/06/2018,01/09/2019,25/11/1932,M,FL,Approved Closed,Closed,,Unspecified systolic (congestive) heart failure,HHC
+1718,2070,04/07/2018,13/08/2019,01/08/1930,F,PA,Approved Closed,Closed,,Alzheimer's disease,NH
+1067,1001,16/03/2021,27/02/2022,28/01/1934,F,CA,Approved-Reassessment,Approved,27/02/2022,Unspecified dementia without behavioral disturbance,NH
+1442,1510,05/04/2021,27/06/2022,01/01/1939,F,MO,Approved-Reassessment,Approved,27/06/2022,Oth symptoms and signs w cognitive functions and awareness,
+1085,1071,10/10/2018,18/05/2019,05/03/1931,M,CO,Approved Closed,Closed,,ST elevation (STEMI) myocardial infarction of unsp site,Other
+1800,1760,11/12/2000,17/05/2001,16/07/1942,F,NC,Approved Closed,Closed,,CHOLERA,NH
+1532,1937,02/03/2017,18/04/2018,05/01/1933,M,CA,Approved Closed,Closed,,Age-related physical debility,Alt Housing
+1301,1597,01/08/2021,15/02/2021,17/06/1935,F,AZ,Approved Closed,Closed,,Unspecified abnormalities of gait and mobility,HHC
+1207,2158,23/02/2010,01/04/2011,03/09/1933,M,MO,Approved Closed,Closed,,FRACTURE OF HIP,HHC
+1346,1314,08/12/2017,,12/02/1933,F,CT,Denied,Denied,,CHOLERA,
+1784,1388,02/10/2020,06/03/2021,21/11/1925,F,IA,Approved Closed,Closed,,Unspecified fracture of left femur,NH
+1022,1083,23/03/2015,24/03/2015,13/06/1929,F,FL,Approved Closed,Closed,,Unspecified convulsions,
+1664,1754,13/11/2016,02/05/2019,06/06/1933,F,VA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1149,1875,29/10/2010,,29/04/1925,M,IN,Denied,Denied,,HEART FAILURE,
+1579,1442,16/11/2018,14/05/2019,22/03/1930,F,CA,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1935,1592,18/01/2012,,24/10/1922,F,IA,Denied,Denied,,CHOLERA,
+1026,1266,17/06/2017,16/03/2019,04/07/1935,F,FL,Approved Closed,Closed,,Brain stem stroke syndrome,HHC
+1633,1993,08/04/2010,21/11/2021,21/02/1937,F,TN,Approved-Reassessment,Approved,21/11/2021,Psychotic disorder w hallucin due to known physiol condition,Alt Housing
+1937,1161,30/09/2012,,07/10/1935,M,IA,Denied,Denied,,CHOLERA,
+1323,2010,05/10/2021,,08/01/1938,F,FL,Withdrawn,Closed,,Unspecified dementia without behavioral disturbance,
+1689,1133,14/08/2019,28/10/2019,05/09/1937,F,NC,Approved Closed,Closed,,Malignant neoplasm of frontal lobe,NH
+1559,1123,14/12/2015,15/12/2015,14/11/1919,F,CT,Approved Closed,Closed,,"Chronic kidney disease, stage 4 (severe)",
+1034,2080,03/03/2017,11/02/2019,31/10/1927,M,WA,Approved Closed,Closed,,Weakness,HHC
+1540,1653,09/03/2016,28/02/2020,21/11/1936,F,OH,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1619,1448,24/10/2012,,24/04/1917,F,WV,Denied,Denied,,CHOLERA,
+1439,1856,18/02/2017,,29/06/1925,F,IA,Denied,Denied,,Occup of pk-up/van injured in collision w hv veh in traf,
+1171,1278,09/06/2020,,06/10/1928,F,FL,Denied,Denied,,Unspecified macular degeneration,
+1420,1243,23/11/2012,,01/08/1932,F,PA,Denied,Denied,,VIRAL INFECTION IN CONDITIONS CLASSIFIED ELSEWHERE AND OF,
+1783,1665,13/02/2021,19/03/2021,30/09/1932,M,MN,Approved Closed,Deceased,,Malignant neoplasm of prostate,
+1854,1280,21/05/2021,,17/12/1931,F,AZ,NEW,In Assessment,,,
+1592,1607,08/02/2013,,21/11/1928,F,RI,Denied,Denied,,CHOLERA,
+1177,2133,16/07/2016,26/03/2019,11/01/1924,M,CA,Approved Closed,Closed,,Repeated falls,Personal Care
+1967,1063,21/10/2018,26/03/2019,27/09/1932,F,TN,Approved Closed,Closed,,Fracture of patella,HHC
+1001,1287,24/10/2020,23/02/2021,28/07/1946,F,IA,Approved Closed,Closed,,Vascular dementia with behavioral disturbance,NH
+1037,2094,13/08/2015,,08/01/1922,F,IA,Denied,Denied,,CHOLERA,
+1537,1762,09/04/2017,,18/12/1941,M,WA,Denied,Denied,,CHOLERA,
+1173,1370,23/11/2019,,09/01/1935,F,NC,Denied,Denied,,Sarcoidosis of lung,
+1510,1413,08/03/2014,02/06/2018,19/03/1933,M,OK,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1775,1454,28/01/2017,,18/09/1927,M,KS,Denied,Denied,,Repeated falls,
+1166,2000,01/09/2010,01/11/2015,19/01/1926,F,FL,Approved Closed,Closed,,"Chronic kidney disease, stage 4 (severe)",HHC
+1462,1840,12/01/2019,05/09/2022,20/01/1938,M,SC,Approved-Reassessment,Approved,09/05/2022,"Cerebral infarction, unspecified",HHC
+1627,1061,23/04/2019,29/03/2022,16/03/1937,F,ID,Approved-Reassessment,Approved,29/03/2022,Vascular dementia without behavioral disturbance,Ind Prov
+1082,1833,19/09/2018,,12/02/1928,M,UT,Denied,Denied,,Hyp hrt & chr kdny dis w hrt fail and stg 1-4/unsp chr kdny,
+1727,1522,22/09/2020,15/03/2021,30/08/1928,F,NC,Approved Closed,Deceased,,Alzheimer's disease with late onset,
+1412,1114,21/12/2010,,04/02/1930,F,UT,Denied,Denied,,CHOLERA,
+1624,1778,16/06/2017,03/04/2018,11/10/1924,M,WI,Approved Closed,Closed,,"Retention of urine, unspecified",NH
+1834,1249,27/01/2018,27/04/2021,04/12/1929,F,IL,Approved Closed,Closed,,Oth mental disorders due to known physiological condition,NH
+1615,1579,19/12/2017,,23/01/1936,M,NH,Denied,Denied,,CHOLERA,
+1146,1498,08/10/2018,,03/05/1926,M,NE,Denied,Denied,,Chronic venous hypertension (idiopathic) with ulcer,
+1678,1798,12/10/2004,01/10/2005,20/07/1930,F,VA,Approved Closed,Closed,,NEOPLASMS OF UNSPECIFIED NATURE,HHC
+1730,1460,23/02/2002,12/08/2021,20/06/1941,F,SD,Approved-Reassessment,Approved,08/12/2021,Age-related osteoporosis w/o current pathological fracture,NH
+1025,1998,27/10/2013,23/08/2018,28/02/1940,F,NC,Approved Closed,Closed,,Occlusion and stenosis of unspecified middle cerebral artery,HHC
+1157,1433,05/11/2012,28/07/2013,26/02/1931,F,OH,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1451,1540,13/10/2020,23/01/2021,20/08/1926,F,ND,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1087,2139,05/07/2018,,10/11/1928,F,MN,Denied,Denied,,"Chronic obstructive pulmonary disease, unspecified",
+1513,1622,13/12/2014,03/08/2022,19/11/1931,F,IA,Approved-Reassessment,Approved,08/03/2022,Cerebral infarction due to embolism of unsp vertebral artery,NH
+1338,1380,15/04/2019,,22/07/1927,F,OR,Denied,Denied,,Intertrochanteric fracture of femur,
+1219,1889,11/12/2018,,17/07/1933,M,OH,Denied,Denied,,Malignant neoplasm of unsp part of left bronchus or lung,
+1123,1544,18/08/2017,,02/10/1917,F,OR,Denied,Denied,,"Sciatica, unspecified side",
+1794,1630,05/02/2020,05/01/2022,25/09/1930,M,VA,Approved-Reassessment,Approved,01/05/2022,Hyp hrt & chr kdny dis w hrt fail and stg 1-4/unsp chr kdny,
+1560,1700,18/08/2020,18/02/2021,14/11/1931,F,MI,Approved Closed,Deceased,,Oth symptoms and signs w cognitive functions and awareness,HHC
+1543,1556,22/08/2020,30/09/2020,16/01/1930,M,MS,Approved Closed,Deceased,,Unspecified dementia with behavioral disturbance,
+1894,1978,16/09/2012,,02/09/1944,F,OK,Denied,Denied,,CHOLERA,
+1246,1294,22/06/2019,26/02/2021,29/10/1921,F,IL,Approved Closed,Deceased,,Essential (primary) hypertension,NH
+1687,1032,08/10/2015,,18/05/1930,F,IN,Denied,Denied,,Presence of artificial knee joint,
+1584,1261,28/12/2019,05/07/2022,31/08/1926,F,FL,Approved-Reassessment,Approved,07/05/2022,"Hereditary and idiopathic neuropathy, unspecified",HHC
+1953,1352,23/02/2004,06/12/2005,20/05/1935,M,CT,Approved Closed,Closed,,"STROKE, CVA",NH
+1206,1909,07/05/2016,12/06/2018,18/02/1930,F,PA,Approved Closed,Closed,,Fracture of upper end of humerus,NH
+1453,1318,08/05/2011,,12/07/1928,F,KS,Denied,Denied,,CANCER OF PANCREAS,
+1008,1167,13/08/2005,24/01/2006,31/10/1924,M,MS,Approved Closed,Closed,,CHOLERA,Alt Housing
+1197,1576,14/08/2018,05/07/2022,29/06/1930,F,FL,Approved-Reassessment,Approved,07/05/2022,"Unspecified osteoarthritis, unspecified site",HHC
+1853,1157,26/03/2009,27/06/2009,27/01/1930,M,MO,Approved Closed,Closed,,PARKINSON'S DISEASE,NH
+1786,1799,02/03/2012,20/03/2012,25/01/1935,M,KS,Approved Closed,Closed,,OTHER CEREBRAL DEGENERATIONS,NH
+1075,1028,09/03/2013,,02/05/1937,F,CT,Denied,Denied,,CHOLERA,
+1890,1430,17/12/2012,20/04/2018,17/07/1926,M,TN,Approved Closed,Closed,,Unspecified sequelae of unspecified cerebrovascular disease,NH
+1610,2009,06/01/2018,01/01/2022,20/12/1927,M,MA,Approved-Reassessment,Approved,01/01/2022,"Legal blindness, as defined in USA",Ind Prov
+1716,1396,10/04/2016,04/07/2019,17/11/1935,F,PA,Approved Closed,Closed,,"Cerebral infarction, unspecified",NH
+1415,1255,28/05/2017,27/06/2019,26/10/1930,F,ME,Approved Closed,Closed,,Vascular dementia with behavioral disturbance,NH
+1906,1644,23/10/2012,07/08/2017,25/07/1924,M,FL,Approved Closed,Closed,,Parkinson's disease,HHC
+1880,1070,23/11/2015,01/05/2018,11/12/1923,M,AR,Approved Closed,Closed,,"Chronic ischemic heart disease, unspecified",NH
+1356,1227,18/03/2012,19/07/2012,31/01/1926,M,VA,Approved Closed,Closed,,CONGESTIVE HEART FAILURE,NH
+1251,1827,27/08/2006,09/11/2006,09/11/1935,F,MO,Approved Closed,Closed,,ALZHEIMER'S DISEASE,Personal Care
+1256,1384,25/07/2015,19/11/2018,06/05/1927,F,PA,Approved Closed,Closed,,"Heart disease, unspecified",NH
+1545,1263,07/01/2014,25/03/2016,18/03/1937,M,MT,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1562,1064,13/03/2020,27/02/2021,05/03/1929,F,FL,Approved Closed,Deceased,,"Alzheimer's disease, unspecified",NH
+1296,1044,04/12/2021,,16/09/1930,M,IL,NEW,In Assessment,,,
+1688,2120,22/12/2013,13/09/2014,11/02/1916,M,NH,Approved Closed,Closed,,REGIONAL ENTERITIS/CROHN'S DISEASE,NH
+1470,1894,30/06/2015,,20/01/1936,F,NC,Denied,Denied,,CHOLERA,
+1576,1970,31/12/2017,24/05/2019,24/12/1927,F,IL,Approved Closed,Closed,,Parkinson's disease,NH
+1501,1350,01/05/2016,16/01/2021,27/02/1929,F,OK,Approved Closed,Deceased,,History of falling,NH
+1436,1725,14/07/2015,14/09/2021,20/03/1925,M,CO,Approved-Reassessment,Approved,,Unspecified abnormalities of gait and mobility,HHC
+1629,1621,28/08/2020,20/04/2021,01/11/1923,F,MN,Approved Closed,Closed,,"Heart failure, unspecified",Alt Housing
+1791,1258,05/12/2018,24/09/2021,18/08/1939,F,NE,Approved-Reassessment,Approved,,Parkinson's disease,HHC
+1760,1766,07/10/2016,07/11/2016,25/09/1924,F,DC,Approved Closed,Closed,,Unspecified fracture of femur,
+1220,1866,29/05/2021,19/08/2021,01/11/1927,F,TX,Approved-Reassessment,Approved,19/08/2021,"Chronic obstructive pulmonary disease, unspecified",
+1277,2006,24/12/2013,,16/05/1933,F,TN,Denied,Denied,,ORGANIC BRAIN SYNDROME,
+1297,1930,02/05/2018,,06/11/1939,F,CA,Denied,Denied,,"Mild cognitive impairment, so stated",
+1352,1321,23/01/2013,24/05/2018,21/06/1933,F,MS,Approved Closed,Closed,,Unspecified abnormalities of gait and mobility,NH
+1391,1531,21/02/2007,05/09/2007,17/01/1923,M,TX,Approved Closed,Closed,,CHOLERA,Personal Care
+1000,1341,19/04/2008,26/07/2011,23/04/1920,F,NC,Approved Closed,Closed,,CONGESTIVE HEART FAILURE,HHC
+1236,1585,04/01/2015,06/02/2015,21/06/1924,M,IN,Approved Closed,Closed,,OTHER DISORDERS OF URINARY TRACT,NH
+1014,2042,05/01/2012,17/06/2016,17/01/1920,F,OR,Approved Closed,Closed,,Injury-site NOS,NH
+1975,1616,21/08/2020,07/04/2021,13/09/1926,F,IL,Approved-Reassessment,Approved,04/07/2021,"Unspecified osteoarthritis, unspecified site",NH
+1350,1117,04/09/2018,16/12/2019,14/01/1931,F,MI,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1249,2077,17/05/2019,28/12/2019,14/07/1927,F,TX,Approved Closed,Closed,,"Polyneuropathy, unspecified",HHC
+1896,2146,25/04/2013,21/06/2013,30/03/1922,F,IL,Approved Closed,Closed,,FRACTURE OF OTHER AND UNSPECIFIED PARTS OF FEMUR,NH
+1358,1183,08/02/2014,30/08/2017,24/08/1929,F,MI,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1136,1706,31/10/2018,04/04/2022,13/05/1933,F,NC,Approved-Reassessment,Approved,04/04/2022,Unspecified dementia without behavioral disturbance,HHC
+1608,1582,13/08/2018,11/11/2019,13/06/1926,F,NC,Approved Closed,Closed,,Alzheimer's disease,NH
+1628,1914,13/03/2012,30/05/2015,11/03/1931,F,MO,Approved Closed,Closed,,OTHER CEREBRAL DEGENERATIONS,NH
+1111,1394,22/11/2019,30/04/2020,01/08/1924,F,SC,Approved Closed,Closed,,"Prsnl hx of TIA (TIA), and cereb infrc w/o resid deficits",HHC
+1345,1942,24/02/2011,06/08/2011,10/08/1926,M,LA,Approved Closed,Closed,,"CANCER OF TRACHEA, BRONCHUS, AND LUNG",HHC
+1707,1904,30/09/2017,29/07/2019,11/02/1934,M,AZ,Approved Closed,Closed,,Cerebral infarction due to embolism of unsp vertebral artery,Alt Housing
+1782,1804,19/04/2017,13/01/2022,18/01/1932,M,CO,Approved-Reassessment,Approved,13/01/2022,Unspecified atrial fibrillation,HHC
+1492,2072,23/05/2017,25/06/2017,05/07/1935,F,NC,Approved Closed,Closed,,Vascular dementia,
+1507,1139,23/11/2014,24/12/2014,24/09/1934,F,ID,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1661,2027,01/12/2019,13/11/2021,21/07/1939,F,MO,Approved-Reassessment,Approved,13/11/2021,"Heart failure, unspecified",NH
+1695,1275,24/11/2018,03/01/2020,11/10/1922,M,VA,Approved Closed,Deceased,,Unspecified dementia without behavioral disturbance,NH
+1337,1450,04/09/2018,24/07/2018,29/10/1930,M,WA,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1737,1236,23/08/2009,24/05/2011,30/06/1940,F,VA,Approved Closed,Closed,,Parkinson's disease,NH
+1325,1477,03/11/2014,23/07/2015,11/09/1928,M,WV,Approved Closed,Closed,,CHRONIC AIRWAY OBSTRUCTIVE PULMONARY DISEASE,NH
+1626,1484,08/06/2012,04/03/2018,12/08/1934,F,CT,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1015,2147,23/04/2017,21/06/2018,12/01/1925,F,VA,Approved Closed,Closed,,Repeated falls,HHC
+1135,1449,18/12/2017,26/05/2018,23/11/1929,F,WA,Approved Closed,Closed,,Other amnesia,Alt Housing
+1005,1324,21/03/2017,07/09/2018,17/12/1928,F,OH,Approved Closed,Closed,,"Gastrointestinal hemorrhage, unspecified",NH
+1874,2088,26/03/2013,19/03/2017,07/10/1926,M,NJ,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",HHC
+1046,1532,16/06/2010,27/03/2019,07/08/1924,F,WY,Approved Closed,Closed,,Acute kidney failure with acute cortical necrosis,NH
+1400,2026,17/08/2019,01/01/2022,05/08/1931,M,IN,Approved-Reassessment,Approved,01/01/2022,Unspecified dementia without behavioral disturbance,Alt Housing
+1948,1639,23/01/2010,23/02/2011,21/11/1914,F,IA,Approved Closed,Closed,,NONINFECTIOUS DISORDERS OF LYMPHATIC CHANNELS,NH
+1553,1815,14/06/2015,12/04/2015,06/03/1933,M,IA,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1384,1524,29/01/2002,02/02/2016,25/10/1926,F,IN,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1685,1782,09/06/2015,,08/08/1936,F,CT,Denied,Denied,,CHOLERA,
+1147,1465,23/06/2015,16/07/2018,28/11/1928,F,OK,Approved Closed,Closed,,Other sequelae following unspecified cerebrovascular disease,NH
+1373,1900,13/11/2017,26/12/2018,25/07/1931,F,PA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1329,1213,11/01/2016,,24/05/1926,F,KS,Denied,Denied,,CHOLERA,
+1056,1007,17/09/2016,21/11/2021,24/05/1936,F,IL,Approved-Reassessment,Approved,21/11/2021,Unspecified dementia without behavioral disturbance,NH
+1635,1968,27/10/2020,22/12/2020,30/08/1934,M,IA,Approved Closed,Deceased,,"Chronic kidney disease, stage 3 (moderate)",
+1443,1118,01/04/2016,07/04/2016,20/12/1937,F,IN,Approved Closed,Closed,,"Rheumatoid arthritis with rheumatoid factor, unspecified",Other
+1722,2093,18/08/2019,15/12/2020,04/09/1923,M,ID,Approved Closed,Deceased,,Other amnesia,NH
+1818,1596,29/01/2011,27/10/2012,02/04/1923,F,CT,Approved Closed,Closed,,Repeated falls,HHC
+1546,1066,04/04/2021,,04/05/1926,M,TX,Withdrawn,Closed,,Age-related physical debility,
+1850,1051,02/08/2019,,29/10/1931,M,NC,Denied,Denied,,"Malignant neoplasm of unsp kidney, except renal pelvis",
+1763,1381,05/12/2020,,29/07/1930,F,WA,Denied,Denied,,Essential (primary) hypertension,
+1822,1965,21/11/2015,01/09/2020,07/03/1924,F,PA,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1998,1180,19/03/2021,27/10/2021,04/02/1924,F,IA,Approved-Reassessment,Approved,27/10/2021,"Unspecified injury of head, initial encounter",Ind Prov
+1434,2109,07/05/2004,06/02/2008,07/10/1920,M,FL,Approved Closed,Closed,,DIABETES,HHC
+1039,1691,10/10/2018,15/03/2022,08/03/1932,F,NJ,Approved-Reassessment,Approved,15/03/2022,Unspecified dementia without behavioral disturbance,NH
+1589,2039,25/08/2017,12/10/2018,11/05/1934,M,IA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1022,1112,11/02/2020,10/12/2020,13/06/1929,F,FL,Approved Closed,Deceased,,"Anemia, unspecified",HHC
+1253,1995,06/11/2021,07/06/2021,09/01/1931,F,TX,Approved Closed,Deceased,,"Unsp fracture of shaft of unsp femur, init for clos fx",
+1052,1929,02/12/2019,02/07/2020,10/02/1932,F,MA,Approved Closed,Closed,,"Other specified arthritis, unspecified site",HHC
+1310,2087,23/04/2012,26/03/2015,20/08/1936,M,WA,Approved Closed,Closed,,ORGANIC BRAIN SYNDROME,NH
+1360,1052,19/06/2021,21/06/2021,30/04/1939,M,MN,Approved Closed,Deceased,,"Other specified fracture of left pubis, sequela",
+1333,1949,18/06/2018,16/11/2018,14/06/1928,M,OK,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",NH
+1795,1178,22/04/2017,23/05/2018,11/08/1932,F,VA,Approved Closed,Closed,,Primary generalized (osteo)arthritis,HHC
+1769,1879,29/03/2019,23/07/2019,22/10/1921,F,MI,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,
+1858,1302,10/03/2018,10/04/2018,08/09/1916,F,MO,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,
+1697,1414,18/10/2013,30/03/2015,05/05/1931,F,NC,Approved Closed,Closed,,OTHER CANCER OF SKIN,HHC
+1829,1469,04/02/2012,07/10/2013,28/10/1929,M,MT,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1284,1649,05/01/2009,19/06/2009,03/12/1924,F,GA,Approved Closed,Closed,,FRACTURE OF HUMERUS,HHC
+1196,1423,01/05/2018,14/01/2019,30/05/1935,M,KS,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1290,1817,15/08/2018,,23/12/1920,F,WA,Denied,Denied,,History of falling,
+1642,1868,27/12/2007,07/07/2008,05/02/1920,M,IL,Approved Closed,Closed,,ORGANIC BRAIN SYNDROME,HHC
+1128,1893,06/08/2017,,17/06/1938,M,CA,Denied,Denied,,CHOLERA,
+1866,1451,16/06/2017,23/04/2018,22/01/1936,F,AR,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1426,1973,20/12/2015,26/03/2017,22/10/1940,M,NC,Approved Closed,Closed,,Parkinson's disease,NH
+1679,1471,18/09/2018,03/10/2019,13/03/1934,M,IN,Approved Closed,Closed,,"Malignant neoplasm of bladder, unspecified",HHC
+1120,1506,27/04/2020,05/10/2022,11/01/1934,F,IA,Approved-Reassessment,Approved,10/05/2022,Unspecified dementia without behavioral disturbance,NH
+1484,1453,13/03/2013,08/12/2014,31/03/1934,M,IN,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",HHC
+1833,1038,22/08/2020,,05/09/1933,F,OR,Withdrawn,Closed,,Muscle weakness (generalized),
+1987,1679,15/05/2016,23/06/2019,06/08/1927,F,OK,Approved Closed,Closed,,"Chronic kidney disease, unspecified",NH
+1286,1577,10/12/2015,23/11/2016,20/03/1939,F,PA,Approved Closed,Closed,,"RENAL FAILURE, CHRONIC/INSUFFICIENT",HHC
+1240,2082,29/06/2019,16/12/2019,22/08/1925,M,WI,Approved Closed,Closed,,Malignant neoplasm of unsp part of unsp bronchus or lung,NH
+1266,1250,18/08/2013,11/06/2013,09/11/1924,F,CA,Approved Closed,Closed,,Alpers disease,
+1156,2124,22/09/2018,23/09/2019,13/05/1926,F,CA,Approved Closed,Closed,,Unspecified dementia,NH
+1242,1927,23/09/2019,31/12/2020,22/05/1927,M,AZ,Approved Closed,Deceased,,"Alzheimer's disease, unspecified",NH
+1920,1610,05/09/2021,,04/09/1940,F,TN,Withdrawn,Closed,,"Malignant neoplasm of colon, unspecified",
+1767,1508,28/10/2013,01/08/2014,28/06/1925,F,FL,Approved Closed,Closed,,"Mild cognitive impairment, so stated",
+1735,1088,20/08/2019,15/11/2021,04/02/1922,F,IA,Approved-Reassessment,Approved,15/11/2021,"Cerebral infarction, unspecified",NH
+1127,1078,20/04/2003,13/07/2003,19/07/1930,F,FL,Approved Closed,Closed,,CHOLERA,HHC
+1506,2165,04/06/2018,05/05/2021,09/09/1936,F,NV,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1908,1911,11/03/2017,08/05/2019,09/12/1921,F,IA,Approved Closed,Closed,,Fracture of femur,NH
+1096,1780,21/05/2012,27/03/2013,15/01/1924,M,KS,Approved Closed,Closed,,ORGANIC BRAIN SYNDROME,NH
+1690,1789,16/06/2015,19/07/2016,18/08/1926,F,TN,Approved Closed,Closed,,Parkinson's disease,HHC
+1092,1435,26/04/2021,05/03/2022,29/07/1935,F,CA,Approved-Reassessment,Approved,03/05/2022,Unspecified dementia without behavioral disturbance,HHC
+1685,2127,17/11/2017,,08/08/1936,F,CT,Denied,Denied,,CHOLERA,
+1099,1703,04/09/2021,06/03/2021,25/06/1938,F,SC,Approved Closed,Deceased,,Parkinson's disease,
+1065,1040,26/04/2006,08/01/2006,03/12/1926,M,TN,Approved Closed,Closed,,"NEUROPATHY, INFLAMMATORY AND TOXIC",HHC
+1650,2118,19/06/2015,15/08/2016,17/01/1940,F,TN,Approved Closed,Closed,,Parkinson's disease,HHC
+1371,2096,01/03/2016,27/03/2016,04/01/1940,M,TX,Approved Closed,Closed,,"Fracture of neck, unspecified",NH
+1080,1670,09/04/2011,27/01/2012,14/11/1937,F,MN,Approved Closed,Closed,,"OSTEOMYELITIS, PERIOSTITIS, AND OTHER INFECTIONS INVOLVING BONE",NH
+1474,1757,03/05/2012,15/04/2013,10/09/1921,M,TN,Approved Closed,Closed,,COMMUNICABLE DISEASE OR INFECTION,NH
+1523,1730,23/12/2013,30/12/2013,07/08/1931,M,MO,Approved Closed,Closed,,Unspecified systolic (congestive) heart failure,
+1749,2112,28/12/2019,18/02/2021,02/01/1931,F,IL,Approved Closed,Closed,,"Polyneuropathy, unspecified",NH
+1835,1096,03/05/2017,04/05/2022,22/01/1928,F,OH,Approved-Reassessment,Approved,05/04/2022,Alzheimer's disease,NH
+1406,1814,02/08/2021,29/08/2021,13/11/1929,F,IA,Approved-Reassessment,In Assessment,29/08/2021,Age-related osteoporosis w/o current pathological fracture,Alt Housing
+1088,1230,23/11/2019,,29/05/1934,F,FL,Denied,Denied,,Malignant neoplasm of breast of unspecified site,
+1759,2143,04/07/2018,11/07/2021,26/05/1936,M,IL,Approved-Reassessment,Approved,07/11/2021,Contusion of back wall of thorax,Alt Housing
+1938,1134,24/03/2019,21/11/2020,24/11/1929,F,VA,Approved Closed,Closed,,Chronic systolic (congestive) heart failure,HHC
+1106,2012,11/12/2012,,25/12/1937,M,FL,Denied,Denied,,CHOLERA,
+1090,1308,05/11/2018,02/05/2019,12/08/1924,M,VA,Approved Closed,Closed,,Unspecified dementia,NH
+1212,2107,29/04/2012,,07/02/1926,M,IA,Denied,Denied,,ORGANIC BRAIN SYNDROME,
+1389,1292,06/08/2015,06/07/2018,09/12/1921,M,OR,Approved Closed,Closed,,"Muscle wasting and atrophy, NEC, unsp site",NH
+1847,2132,26/05/2007,09/02/2008,21/02/1942,M,WI,Approved Closed,Closed,,PARKINSON'S DISEASE,
+1208,1767,30/11/2013,,18/08/1941,F,GA,Denied,Denied,,CHOLERA,
+1864,1283,17/04/2004,09/12/2006,01/12/1927,M,FL,Approved Closed,Closed,,OTHER ORGANIC PSYCHOTIC CONDITIONS (CHRONIC),HHC
+1502,2117,25/07/2009,,19/08/1939,F,KS,Denied,Denied,,OTHER MALIGNANT NEOPLASMS OF LYMPHOID AND HISTIOCYTIC TISSUE,
+1517,1850,25/03/2011,30/03/2011,21/11/1919,M,KS,Approved Closed,Closed,,MYONEURAL DISORDERS,NH
+1684,1848,14/08/2017,07/10/2022,01/11/1935,F,IA,Approved-Reassessment,Approved,10/07/2022,"Collapsed vertebra, not elsewhere classified, site unsp",NH
+1905,1142,25/08/2010,01/11/2012,06/11/1946,F,FL,Approved Closed,Closed,,Parkinson's disease,HHC
+1534,2015,12/11/2006,09/06/2007,26/09/1920,M,NC,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1114,1105,10/05/2014,03/07/2016,12/08/1929,F,NE,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1766,1360,03/08/2021,,06/02/1928,F,IN,Withdrawn,Closed,,"Heart failure, unspecified",
+1766,1019,05/05/2020,02/05/2021,06/02/1928,F,IN,Approved Closed,Denied,,"Heart failure, unspecified",NH
+1943,1387,06/09/2020,25/07/2021,06/03/1934,F,LA,Approved-Reassessment,In Assessment,,Unspecified dementia without behavioral disturbance,HHC
+1620,1401,15/10/2018,11/09/2019,17/10/1932,F,NE,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1238,1342,27/10/2018,,15/06/1922,F,CA,Denied,Denied,,CHOLERA,
+1411,1832,03/09/2015,10/07/2018,23/09/1927,M,IL,Approved Closed,Closed,,Age-related cognitive decline,NH
+1536,1512,10/04/2019,11/04/2021,23/04/1933,F,AR,Approved-Reassessment,Approved,04/11/2021,Unspecified dementia without behavioral disturbance,NH
+1902,1701,30/01/2015,10/08/2015,15/05/1935,F,WI,Approved Closed,Closed,,Unspecified atrial fibrillation,NH
+1877,1847,19/01/2018,18/02/2020,24/03/1928,M,KS,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1326,1741,07/07/2019,23/09/2019,16/10/1933,M,LA,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",NH
+1944,1635,26/03/2014,,10/11/1933,M,MO,Denied,Denied,,"FRACTURE OF RIB(S), STERNUM, LARYNX, AND TRACHEA",
+1514,1853,03/09/2007,,08/06/1930,M,AZ,Denied,Denied,,DIABETES,
+1110,1523,14/01/2017,19/09/2021,28/08/1936,F,MO,Approved-Reassessment,Approved,,Fracture of unspecified part of unspecified clavicle,NH
+1119,2073,17/11/2006,06/05/2013,27/04/1952,M,KY,Approved Closed,Closed,,CANCER OF BRAIN,NH
+1710,1166,23/04/2008,05/07/2008,26/07/1923,F,KY,Approved Closed,Closed,,Primary generalized (osteo)arthritis,
+1228,1116,20/04/2016,31/01/2022,17/10/1926,F,TX,Approved-Reassessment,Approved,31/01/2022,Coronary atherosclerosis due to lipid rich plaque,NH
+1781,1103,15/10/2011,04/02/2013,17/07/1929,M,TX,Approved Closed,Closed,,PARKINSON'S DISEASE,HHC
+1768,1150,07/06/2013,,08/03/1922,M,TX,Denied,Denied,,FRACTURE OF HIP,
+1686,1878,08/10/2016,11/07/2018,23/05/1930,M,WA,Approved Closed,Closed,,"Chronic ischemic heart disease, unspecified",NH
+1810,1975,19/01/2016,01/08/2021,15/07/1925,F,WA,Approved Closed,Closed,,"Unspecified osteoarthritis, unspecified site",NH
+1623,1298,20/11/2015,22/05/2019,08/11/1935,F,SC,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1548,1786,25/11/2007,01/11/2010,26/03/1916,M,WA,Approved Closed,Closed,,ORGANIC BRAIN SYNDROME,HHC
+1108,1650,24/12/2013,,02/05/1922,F,IA,Denied,Denied,,Unspecified fracture of upper end of tibia,
+1541,1511,02/01/2020,,04/06/1932,F,OR,Denied,Denied,,Unspecified fracture of right femur,
+1193,1895,09/11/2018,,07/02/1935,F,NC,Denied,Denied,,Fracture of unspecified part of neck of unspecified femur,
+1433,1369,06/09/2019,09/08/2020,24/11/1924,F,PA,Approved Closed,Closed,,"Chronic kidney disease, unspecified",NH
+1283,1590,24/01/2020,,06/04/1924,M,MO,Denied,Denied,,"Heart failure, unspecified",
+1981,1693,20/03/2018,25/04/2020,14/12/1926,M,OK,Approved Closed,Closed,,"Retention of urine, unspecified",NH
+1213,2071,17/02/2017,21/02/2017,30/03/1930,F,ID,Approved Closed,Closed,,"Heart failure, unspecified",HHC
+1788,1115,28/02/2014,06/10/2015,24/10/1927,F,NC,Approved Closed,Closed,,"Gastrointestinal hemorrhage, unspecified",HHC
+1394,1385,19/09/2020,31/01/2021,15/08/1936,F,MN,Approved Closed,Closed,,"Local-rel idio epi w seiz of loc onst, not ntrct, w stat epi",NH
+1583,1472,04/07/2008,11/01/2020,11/10/1947,F,TX,Approved Closed,Closed,,Primary generalized (osteo)arthritis,HHC
+1487,1220,30/10/2017,01/02/2018,14/10/1929,F,VT,Approved Closed,Closed,,Parkinson's disease,HHC
+1047,1546,09/02/2012,,19/10/1926,M,LA,Denied,Denied,,CHOLERA,
+1907,2007,11/03/2014,20/12/2021,16/08/1933,F,FL,Approved-Reassessment,Approved,20/12/2021,"Alzheimer's disease, unspecified",HHC
+1622,1463,30/06/2015,10/12/2018,10/11/1932,F,FL,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",NH
+1380,1717,04/05/2018,,05/02/1930,M,NC,Denied,Denied,,Repeated falls,
+1131,1509,03/07/2018,16/04/2021,31/08/1922,F,IL,Approved Closed,Closed,,Flu due to ident novel influenza A virus w oth resp manifest,NH
+1274,1594,06/09/2015,18/05/2018,13/12/1927,F,IN,Approved Closed,Closed,,Unspecified lack of coordination,NH
+1830,1777,23/04/2014,06/07/2014,19/06/1929,F,ID,Approved Closed,Closed,,"Alzheimer's disease, unspecified",HHC
+1142,1108,25/04/2018,28/05/2022,29/08/1926,F,IA,Approved-Reassessment,Approved,,"Unspecified osteoarthritis, unspecified site",NH
+1671,1694,16/08/2014,17/07/2019,14/02/1927,F,CT,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1475,1242,23/02/2018,27/12/2018,08/09/1931,M,WI,Approved Closed,Closed,,Alzheimer's disease with early onset,NH
+1184,1031,22/05/2015,18/08/2019,26/07/1924,F,CO,Approved Closed,Closed,,Repeated falls,NH
+1491,1689,21/11/2014,12/02/2018,27/01/1930,F,PA,Approved Closed,Closed,,Cerebral infarction due to embolism of unsp carotid artery,NH
+1388,1516,09/02/2014,25/03/2017,30/10/1928,M,ID,Approved Closed,Closed,,"Kaschin-Beck disease, unspecified site",NH
+1069,2092,31/12/2017,23/04/2018,08/08/1926,F,FL,Approved Closed,Closed,,"Malignant neoplasm of cerebrum, except lobes and ventricles",HHC
+1226,1925,25/09/2010,23/04/2020,04/05/1932,F,KS,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1045,1964,24/01/2016,22/05/2017,26/12/1922,F,ID,Approved Closed,Closed,,Age-related physical debility,HHC
+1960,1829,01/09/2021,,09/07/1928,M,OR,Withdrawn,Closed,,"Traum subdr hem w/o loss of consciousness, subs",
+1294,1867,17/12/2012,06/06/2013,26/12/1924,M,NV,Approved Closed,Closed,,ALZHEIMER'S DISEASE,HHC
+1270,1367,14/06/2015,09/11/2018,20/07/1927,F,KY,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1474,1424,24/02/2011,04/06/2011,10/09/1921,M,TN,Approved Closed,Closed,,COMMUNICABLE DISEASE OR INFECTION,
+1891,1997,25/12/2015,,26/06/1921,F,KS,Denied,Denied,,CHOLERA,
+1194,1187,14/07/2010,16/03/2017,23/11/1927,M,AZ,Approved Closed,Closed,,"Spinal stenosis, site unspecified",NH
+1281,1110,11/02/2017,11/08/2019,30/01/1928,M,AZ,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1022,1899,25/01/2012,03/02/2012,13/06/1929,F,FL,Approved Closed,Closed,,Unspecified convulsions,HHC
+1104,1093,21/09/2008,,26/07/1922,M,KS,Denied,Denied,,SHORTNESS OF BREATH,
+1133,2098,26/10/2018,01/09/2019,19/12/1928,F,MS,Approved Closed,Closed,,"Chronic ischemic heart disease, unspecified",NH
+1309,1190,04/08/2017,18/09/2019,14/10/1929,F,TX,Approved Closed,Closed,,Unspecified dementia,NH
+1112,1869,31/05/2017,04/08/2019,26/09/1935,M,TX,Approved Closed,Closed,,Acute embolism and thombos unsp deep vn unsp lower extremity,NH
+1662,1438,23/02/2011,,17/05/1942,F,WI,Denied,Denied,,CANCER OF PANCREAS,
+1291,1018,31/07/2016,,19/09/1934,F,FL,Denied,Denied,,CHOLERA,
+1221,1794,02/08/2019,30/06/2019,22/04/1922,F,FL,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1076,1189,09/06/2009,09/07/2012,25/07/1928,M,MO,Approved Closed,Closed,,"STROKE, CVA",NH
+1150,1634,03/09/2021,30/11/2021,25/06/1932,F,AZ,Approved-Reassessment,Approved,30/11/2021,"Osteoarthritis of knee, unspecified",
+1795,1145,28/01/2020,14/04/2020,11/08/1932,F,VA,Approved Closed,Closed,,Primary generalized (osteo)arthritis,HHC
+1077,1357,22/08/2020,28/08/2020,23/11/1921,F,SC,Approved Closed,Deceased,,"Unspecified fracture of T11-T12 vertebra, sequela",
+1882,2085,03/11/2018,24/08/2018,15/05/1928,F,SC,Approved Closed,Closed,,"Malignant neoplasm of colon, unspecified",NH
+1283,1542,17/01/2021,16/03/2022,06/04/1924,M,MO,Approved-Reassessment,Approved,16/03/2022,"Unspecified osteoarthritis, unspecified site",HHC
+1642,1410,14/08/2009,21/05/2010,05/02/1920,M,IL,Approved Closed,Closed,,ORGANIC BRAIN SYNDROME,HHC
+1770,1482,09/06/2020,18/10/2021,14/01/1930,M,MS,Approved-Reassessment,Approved,18/10/2021,Unsteadiness on feet,HHC
+1518,1947,03/01/2013,,07/03/1924,M,TN,Denied,Denied,,CHOLERA,
+1465,1514,06/10/2005,24/12/2008,03/12/1922,M,OK,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1565,2017,08/03/2019,16/11/2021,27/05/1937,F,FL,Approved-Reassessment,Approved,16/11/2021,"Cerebral infarction, unspecified",NH
+1676,2084,12/08/2018,12/06/2019,13/09/1928,F,IL,Approved Closed,Closed,,"Other intervertebral disc degeneration, lumbar region",NH
+1198,1659,28/06/2008,12/12/2008,22/09/1926,M,ID,Approved Closed,Closed,,"ACUTE, BUT ILL-DEFINED, CEREBROVASCULAR DISEASE",NH
+1947,1734,19/11/2012,16/12/2012,21/02/1918,F,IA,Approved Closed,Closed,,HEART FAILURE,NH
+1643,2137,13/10/2018,06/04/2019,31/07/1938,M,KS,Approved Closed,Closed,,Alzheimer's disease with early onset,NH
+1825,2144,30/09/2017,01/11/2019,03/10/1936,F,MN,Approved Closed,Closed,,History of falling,NH
+1504,1412,03/05/2018,01/12/2021,16/12/1922,F,WA,Approved Closed,Closed,,Other amnesia,HHC
+1776,1210,19/03/2021,10/11/2021,02/04/1943,F,MO,Approved-Reassessment,Approved,11/10/2021,Parkinson's disease,HHC
+1793,1163,10/09/2013,01/05/2014,02/08/1927,F,RI,Approved Closed,Closed,,Unspecified fall,NH
+1241,1934,06/02/2016,12/08/2018,19/06/1928,F,ME,Approved Closed,Closed,,Repeated falls,NH
+1557,1456,22/12/2012,01/09/2013,27/07/1945,F,IA,Approved Closed,Closed,,CANCER OF FEMALE BREAST,NH
+1188,1941,24/03/2019,24/07/2019,10/01/1929,F,FL,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",NH
+1282,1806,04/09/2007,08/08/2007,02/10/1936,F,AL,Approved Closed,Closed,,POSTINFLAMMATORY PULMONARY FIBROSIS,Personal Care
+1600,2113,23/10/2017,01/11/2019,01/04/1928,M,IL,Approved Closed,Closed,,Syncope and collapse,NH
+1021,1346,24/07/2019,,25/07/1927,F,PA,Denied,Denied,,Age-related osteoporosis w/o current pathological fracture,
+1038,1593,05/06/2018,13/07/2022,20/06/1929,F,CT,Approved-Reassessment,Approved,13/07/2022,"Unspecified osteoarthritis, unspecified site",HHC
+1292,1589,22/04/2015,07/09/2019,06/06/1920,F,KY,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1824,1825,28/06/2019,,16/12/1943,M,TX,Denied,Denied,,Secondary malignant neoplasm of unspecified urinary organs,
+1225,1269,08/12/2000,13/02/2001,11/06/1929,M,MS,Approved Closed,Closed,,CHOLERA,NH
+1269,2100,05/11/2021,27/12/2021,26/09/1925,F,VA,Approved-Reassessment,Approved,27/12/2021,"Rheumatoid arthritis, unspecified",
+1593,1826,13/08/2012,10/04/2015,29/03/1918,M,MN,Approved Closed,Closed,,"PNEUMONIA, ORGANISM UNSPECIFIED",NH
+1355,1618,05/08/2002,07/03/2002,16/03/1930,M,PA,Approved Closed,Closed,,CHOLERA,Personal Care
+1189,1329,29/10/2017,26/09/2021,03/05/1937,F,TX,Approved-Reassessment,Approved,26/09/2021,Cerebral infarction due to thombos unsp cerebral artery,NH
+1614,1939,21/10/2014,,29/03/1938,M,CO,Denied,Denied,,CHOLERA,
+1741,1969,10/10/2012,23/02/2013,25/01/1929,M,KS,Approved Closed,Closed,,ORGANIC BRAIN SYNDROME,NH
+1949,1085,04/02/2012,03/08/2013,01/05/1927,M,MS,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1683,1837,31/05/2014,02/12/2020,02/06/1936,F,MS,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1367,1320,02/07/2016,,08/02/1934,F,WI,Denied,Denied,,Unsp combined systolic and diastolic (congestive) hrt fail,
+1408,2106,30/09/2017,12/04/2021,22/07/1942,F,IA,Approved-Reassessment,Approved,04/12/2021,Encounter for other orthopedic aftercare,
+1331,1375,04/08/2014,23/05/2018,06/09/1936,F,IA,Approved Closed,Closed,,Type 2 diabetes mellitus with unspecified complications,NH
+1033,1034,02/11/2020,28/03/2022,24/02/1935,F,AL,Approved-Reassessment,Approved,28/03/2022,"Alzheimer's disease, unspecified",NH
+1659,1246,13/06/2017,30/04/2018,04/04/1935,M,TN,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1279,1397,31/01/2017,17/05/2018,04/09/1930,M,IA,Approved Closed,Closed,,"Malignant neoplasm of brain, unspecified",NH
+1013,1772,24/05/2012,24/05/2018,18/09/1925,F,OR,Approved Closed,Closed,,Unspecified abnormalities of gait and mobility,HHC
+1291,1699,20/03/2015,,19/09/1934,F,FL,Denied,Denied,,CHOLERA,
+1800,1554,23/02/2000,04/02/2000,16/07/1942,F,NC,Approved Closed,Closed,,CHOLERA,NH
+1805,1181,24/03/2014,,29/06/1927,M,NH,Denied,Denied,,"Spinal stenosis, lumbar region",
+1874,2067,13/04/2012,31/07/2012,07/10/1926,M,NJ,Approved Closed,Closed,,"DEMENTIAL, SENILITY, UNSPECIFIED",NH
+1170,1129,03/10/2014,,02/09/1932,M,OH,Denied,Denied,,CHOLERA,
+1174,1371,04/01/2015,23/09/2015,17/09/1927,F,PA,Approved Closed,Closed,,Other specified fracture of pubis,
+1965,1861,18/08/2014,14/01/2015,06/09/1929,F,IA,Approved Closed,Closed,,"MULTIPLE FRACTURES INVOLVING BOTH UPPER LIMBS, AND UPPER LIMB",NH
+1439,1033,12/10/2014,,29/06/1925,F,IA,Denied,Denied,,Occup of pk-up/van injured in collision w hv veh in traf,
+1680,1440,09/04/2016,,14/04/1935,F,OK,Denied,Denied,,"Altered mental status, unspecified",
+1362,1908,03/02/2018,26/05/2021,31/12/1941,F,CA,Approved Closed,Deceased,,Unspecified abnormalities of gait and mobility,Ind Prov
+1511,1751,08/11/2017,05/08/2020,28/07/1924,F,FL,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1073,1822,28/06/2015,11/12/2019,16/08/1926,M,IA,Approved Closed,Closed,,"Transient cerebral ischemic attack, unspecified",NH
+1547,2061,11/07/2003,24/02/2004,23/10/1926,M,CT,Approved Closed,Closed,,CHOLERA,Personal Care
+1102,1481,07/11/2015,23/09/2020,22/01/1937,F,IL,Approved Closed,Closed,,Dementia with Lewy bodies,NH
+1808,1317,25/01/2016,27/12/2017,09/03/1929,M,KS,Approved Closed,Closed,,End stage renal disease,NH
+1273,1029,23/02/2017,14/12/2018,06/04/1918,F,TX,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",HHC
+1865,1176,17/05/2021,,29/09/1919,M,CA,Withdrawn,Deceased,,"Chronic kidney disease, unspecified",
+1832,1409,23/06/2015,09/01/2019,15/01/1939,F,MN,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1845,1838,26/03/2018,23/08/2020,15/05/1922,F,CT,Approved Closed,Deceased,,Unspecified dementia without behavioral disturbance,NH
+1917,2046,19/02/2013,24/04/2018,11/10/1935,M,TX,Approved Closed,Closed,,Parkinson's disease,HHC
+1957,1845,26/08/2017,11/05/2019,05/08/1928,F,WA,Approved Closed,Closed,,Exposure to excessive natural cold,NH
+1544,1996,03/10/2002,15/12/2002,09/03/1935,M,OR,Approved Closed,Closed,,ORGANIC BRAIN SYNDROME,NH
+1180,1162,19/02/2019,30/03/2019,14/08/1930,M,FL,Approved Closed,Closed,,"Heart failure, unspecified",HHC
+1353,1421,30/09/2014,30/05/2019,09/06/1925,F,CO,Approved Closed,Closed,,Oth mental disorders due to known physiological condition,NH
+1187,1578,26/07/2017,22/11/2019,06/11/1923,F,TN,Approved Closed,Closed,,Cerebral infrc due to thrombosis of middle cerebral artery,NH
+1876,1006,23/12/2016,19/01/2019,30/08/1928,F,WI,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1305,1459,05/07/2018,11/04/2020,03/03/1929,F,MA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1884,1606,19/03/2018,04/06/2019,25/12/1932,F,IA,Approved Closed,Closed,,"Cerebral infarction, unspecified",NH
+1524,1489,01/10/2018,12/07/2018,27/12/1930,F,IN,Approved Closed,Closed,,"Cerebral infarction, unspecified",NH
+1853,1355,05/02/2012,26/02/2014,27/01/1930,M,MO,Approved Closed,Closed,,PARKINSON'S DISEASE,NH
+1793,1021,14/05/2020,05/10/2022,02/08/1927,F,RI,Approved-Reassessment,Approved,10/05/2022,Unspecified fall,NH
+1556,1623,03/06/2019,23/01/2022,09/01/1946,F,NH,Approved-Reassessment,Approved,23/01/2022,Toxic encephalopathy,NH
+1820,1296,27/10/2018,16/08/2020,21/07/1925,F,MA,Approved Closed,Closed,,"Nontraumatic intracerebral hemorrhage, unspecified",Alt Housing
+1393,1771,22/07/2017,27/08/2019,17/12/1924,F,NE,Approved Closed,Closed,,Cognitive deficits following cerebral infarction,NH
+1075,1406,09/12/2020,10/04/2021,02/05/1937,F,CT,Approved-Reassessment,Approved,04/10/2021,Cerebral infarction due to embolism of unsp vertebral artery,NH
+1753,1322,22/03/2014,22/08/2018,02/11/1924,F,CA,Approved Closed,Closed,,"Arthropathy, unspecified",HHC
+1725,1338,15/12/2018,,07/09/1929,F,LA,Denied,Denied,,CHOLERA,
+1464,1781,12/11/2018,,07/03/1934,F,FL,Denied,Denied,,Unspecified atrial fibrillation,
+1174,1017,05/09/2016,12/07/2019,17/09/1927,F,PA,Approved Closed,Closed,,Other specified fracture of pubis,NH
+1285,1872,10/09/2013,23/08/2019,09/04/1922,F,ND,Approved Closed,Closed,,Congenital heart block,NH
+1346,1864,17/10/2016,,12/02/1933,F,CT,Denied,Denied,,CHOLERA,
+1334,1135,12/07/2018,,03/12/1939,F,TX,Denied,Denied,,Fracture of unspecified part of scapula,
+1124,1731,17/04/2020,14/05/2022,16/06/1926,M,MO,Approved-Reassessment,Approved,14/05/2022,"Alzheimer's disease, unspecified",NH
+1036,1004,29/12/2017,24/07/2020,23/08/1929,M,MI,Approved Closed,Closed,,Alzheimer's disease,NH
+1796,2047,19/06/2016,23/11/2019,07/09/1923,F,KS,Approved Closed,Closed,,Intertrochanteric fracture of femur,NH
+1315,1363,13/04/2021,14/07/2021,21/04/1930,M,CT,Approved Closed,Deceased,,Oth symptoms and signs w cognitive functions and awareness,
+1181,1141,05/04/2021,27/08/2021,12/09/1932,M,CA,Approved-Reassessment,Approved,27/08/2021,Unspecified macular degeneration,
+1432,1588,26/10/2020,,29/09/1929,F,MA,Withdrawn,Closed,23/10/2020,Age-related cognitive decline,
+1899,1386,08/05/2014,02/11/2021,28/10/1920,M,FL,Approved Closed,Closed,,"Anemia, unspecified",Ind Prov
+1162,2021,12/03/2016,06/12/2019,11/06/1922,F,TX,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1476,1240,10/07/2012,20/12/2012,23/11/1930,M,TX,Approved Closed,Closed,,CARDIOMYOPATHY,HHC
+1666,1378,15/05/2013,24/02/2014,26/09/1922,M,FL,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1876,1774,24/12/2014,25/12/2014,30/08/1928,F,WI,Approved Closed,Closed,,"Alzheimer's disease, unspecified",
+1948,1244,03/12/2013,23/04/2013,21/11/1914,F,IA,Approved Closed,Closed,,NONINFECTIOUS DISORDERS OF LYMPHATIC CHANNELS,
+1701,1936,20/03/2020,05/07/2022,07/09/1929,F,PA,Approved-Reassessment,Approved,07/05/2022,Parkinson's disease,NH
+1603,1720,11/04/2012,30/10/2019,26/08/1921,M,AL,Approved Closed,Closed,,"Chronic kidney disease, unspecified",NH
+1964,1011,16/11/2019,02/05/2020,16/02/1933,F,KS,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1503,1945,07/07/2018,11/07/2021,16/01/1936,F,SC,Approved-Reassessment,Approved,07/11/2021,Unspecified dementia with behavioral disturbance,
+1789,1365,08/08/2018,,28/02/1940,F,IA,Denied,Denied,,Type 2 diabetes mellitus without complications,
+1471,1692,01/05/2021,03/11/2020,26/04/1927,M,OR,Approved Closed,Deceased,,Multiple myeloma not having achieved remission,
+1971,1422,26/11/2017,24/02/2020,11/10/1928,M,KS,Approved Closed,Closed,,Parkinson's disease,NH
+1632,1615,20/10/2020,,08/10/1929,F,TN,Withdrawn,Closed,,Chronic systolic (congestive) heart failure,
+1986,1045,09/07/2014,,19/04/1928,M,IN,Denied,Denied,,"DEMENTIAL, SENILITY, UNSPECIFIED",
+1516,1470,16/07/2021,,09/07/1930,M,WI,NEW,In Assessment,,,
+1034,1756,02/12/2016,06/12/2016,31/10/1927,M,WA,Approved Closed,Closed,,Weakness,NH
+1851,1247,01/05/2020,18/10/2020,04/10/1933,F,OR,Approved Closed,Closed,,Parkinson's disease,NH
+1335,1490,20/11/2016,13/06/2019,02/03/1928,F,OR,Approved Closed,Closed,,History of falling,NH
+1494,2119,12/11/2017,,23/07/1934,M,WA,Denied,Denied,,Malignant neoplasm of prostate,
+1978,1149,22/01/2016,19/06/2018,02/09/1934,F,VA,Approved Closed,Closed,,Parkinson's disease,NH
+1831,1104,14/08/2017,12/05/2017,25/10/1917,F,PA,Approved Closed,Closed,,Age-related physical debility,NH
+1760,1880,16/05/2014,11/03/2015,25/09/1924,F,DC,Approved Closed,Closed,,Unspecified fracture of femur,
+1526,1855,29/01/2012,29/08/2018,20/12/1930,F,GA,Approved Closed,Closed,,"Alzheimer's disease, unspecified",HHC
+1218,1165,20/06/2021,01/06/2022,17/08/1920,F,KS,Approved-Reassessment,Approved,06/01/2022,"Heart failure, unspecified",
+1926,1238,16/07/2014,25/09/2018,26/08/1931,F,CA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1507,1805,04/08/2019,06/04/2022,24/09/1934,F,ID,Approved-Reassessment,Approved,,Unspecified dementia without behavioral disturbance,NH
+1640,1985,09/05/2005,04/03/2006,01/11/1926,M,FL,Approved Closed,Closed,,ESSENTIAL HYPERTENSION,Alt Housing
+1357,1608,27/11/2016,03/06/2017,20/05/1929,F,IA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,
+1785,1666,04/08/2018,07/12/2022,02/12/1935,F,MO,Approved-Reassessment,Approved,12/07/2022,Unspecified dementia without behavioral disturbance,NH
+1381,1202,15/12/2015,19/04/2020,22/01/1928,F,SC,Approved Closed,Closed,,"Nonrheumatic aortic valve disorder, unspecified",NH
+1747,1301,23/12/2016,03/05/2022,17/06/1932,F,MS,Approved-Reassessment,Approved,05/03/2022,Unspecified dementia without behavioral disturbance,NH
+1771,1534,23/12/2017,07/10/2022,24/10/1927,M,OR,Approved-Reassessment,Approved,,"Chronic obstructive pulmonary disease, unspecified",NH
+1797,1525,25/04/2016,31/07/2019,08/03/1934,F,WA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1041,1683,23/12/2013,30/05/2020,08/06/1925,F,OK,Approved Closed,Closed,,"Spinal stenosis, site unspecified",NH
+1141,2003,07/05/2017,20/02/2021,31/05/1925,F,CA,Approved Closed,Closed,,Encounter for other specified postprocedural aftercare,HHC
+1048,1882,23/08/2014,01/09/2019,15/03/1936,F,TN,Approved Closed,Closed,,"Schizophrenia, unspecified",NH
+1778,1306,22/12/2017,13/02/2019,17/09/1930,F,IL,Approved Closed,Closed,,Sequelae of cerebral infarction,NH
+1728,1528,10/12/2011,23/05/2022,05/09/1929,F,NE,Approved-Reassessment,Approved,23/05/2022,"Heart failure, unspecified",Alt Housing
+1415,1972,20/12/2015,27/12/2015,26/10/1930,F,ME,Approved Closed,Closed,,Vascular dementia with behavioral disturbance,HHC
+1251,1569,24/01/2004,24/05/2004,09/11/1935,F,MO,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1035,1107,28/04/2017,30/09/2019,11/09/1935,F,VA,Approved Closed,Closed,,Alzheimer's disease,NH
+1289,1284,16/07/2017,26/10/2017,27/03/1926,F,IL,Approved Closed,Closed,,"Heart failure, unspecified",HHC
+1481,1696,28/07/2012,09/11/2012,22/09/1934,M,CT,Approved Closed,Closed,,CANCER OF ESOPHAGUS,
+1988,1259,19/11/2013,17/01/2019,07/09/1926,M,CA,Approved Closed,Closed,,"Malignant neoplasm of bladder, unspecified",HHC
+1098,1745,30/04/2013,01/03/2014,12/11/1930,M,IL,Approved Closed,Closed,,LATE EFFECTS OF CEREBROVASCULAR DISEASE,NH
+1857,1276,06/05/2007,23/09/2007,23/01/1923,F,IN,Approved Closed,Closed,,Unspecified dementia with behavioral disturbance,Alt Housing
+1200,1010,28/04/2017,,23/02/1923,M,AZ,Denied,Denied,,"Malignant neoplasm of colon, unspecified",
+1347,1372,09/01/2011,19/10/2011,09/04/1930,M,MO,Approved Closed,Closed,,FAILURE TO THRIVE (ADULT),HHC
+1654,1793,13/06/2019,,21/02/1931,F,NC,Denied,Denied,,Fracture of superior rim of pubis,
+1551,1267,14/08/2017,10/11/2018,09/05/1923,M,NM,Approved Closed,Closed,,Alzheimer's disease with late onset,HHC
+1720,1705,13/05/2015,22/09/2020,03/10/1934,F,MN,Approved Closed,Deceased,,Fracture of unspecified part of neck of femur,NH
+1435,1737,14/03/2015,30/03/2018,03/04/1923,M,MO,Approved Closed,Closed,,Hemiplga fol unsp cerebvasc disease aff right dominant side,NH
+1368,1122,10/09/2015,16/03/2023,20/05/1923,F,KS,Approved-Reassessment,Approved,,Parkinson's disease,NH
+1445,1043,14/03/2009,16/03/2009,30/06/1924,F,ID,Approved Closed,Closed,,CARE INVOLVING USE OF REHABILITATION PROCEDURES,
+1936,1041,03/06/2016,16/06/2019,10/12/1923,M,MN,Approved Closed,Closed,,Oth symptoms and signs w cognitive functions and awareness,NH
+1052,1170,26/08/2013,27/06/2018,10/02/1932,F,MA,Approved Closed,Closed,,"Other specified arthritis, unspecified site",HHC
+1320,1974,30/10/2016,01/07/2020,14/07/1923,F,FL,Approved Closed,Closed,,"Alzheimer's disease, unspecified",HHC
+1164,1159,23/02/2018,19/04/2019,12/03/1926,F,MI,Approved Closed,Closed,,Unspecified systolic (congestive) heart failure,NH
+1933,1958,24/05/2018,27/05/2019,25/04/1927,M,IL,Approved Closed,Closed,,Repeated falls,NH
+1915,1529,26/09/2019,19/02/2021,12/10/1933,F,MO,Approved Closed,Deceased,,Other arthritis,NH
+1016,1316,22/03/2021,28/04/2022,26/12/1927,F,IL,Approved-Reassessment,Approved,28/04/2022,"Heart failure, unspecified",NH
+1144,1417,08/05/2019,,13/04/1932,F,KY,Denied,Denied,,Weakness,
+1815,1638,15/04/2016,18/05/2017,17/07/1933,F,CA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1985,1712,04/02/2017,14/12/2020,15/04/1932,F,IL,Approved Closed,Closed,,Unspecified fall,NH
+1694,1620,30/09/2016,25/12/2018,12/09/1925,F,SC,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,HHC
+1254,1697,13/07/2019,21/07/2019,21/04/1932,F,IA,Approved Closed,Closed,,Heart failure,NH
+1704,1336,02/05/2019,30/08/2021,28/12/1931,M,OH,Approved-Reassessment,Approved,30/08/2021,Unspecified dementia without behavioral disturbance,NH
+1583,2050,04/09/2021,11/09/2021,11/10/1947,F,TX,Approved-Reassessment,Approved,09/11/2021,"Unspecified osteoarthritis, unspecified site",
+1587,2168,12/12/2014,31/03/2018,15/04/1934,F,FL,Approved Closed,Closed,,Retrograde amnesia,NH
+1597,1080,19/06/2018,07/10/2021,14/05/1928,F,MN,Approved-Reassessment,Approved,10/07/2021,"Prsnl hx of TIA (TIA), and cereb infrc w/o resid deficits",Alt Housing
+1909,1299,11/07/2016,07/11/2020,10/06/1933,M,TX,Approved Closed,Closed,,Cerebral infarction due to embolism of unsp vertebral artery,HHC
+1172,1584,23/12/2011,10/02/2017,02/04/1930,F,SC,Approved Closed,Closed,,"Alzheimer's disease, unspecified",HHC
+1918,1860,03/07/2019,27/12/2021,02/01/1933,F,AZ,Approved-Reassessment,Approved,27/12/2021,"Malignant neoplasm of esophagus, unspecified",HHC
+1591,1225,07/09/2005,08/02/2005,12/03/1929,M,IA,Approved Closed,Closed,,Unspecified dementia,
+1801,1728,24/03/2017,,14/10/1933,M,IN,Denied,Denied,,CHOLERA,
+1932,1177,09/04/2012,,04/06/1932,F,CA,Denied,Denied,,FRACTURE OF METACARPAL BONE(S),
+1672,1466,09/05/2018,,19/08/1931,M,FL,Denied,Denied,,"Malignant neoplasm of bladder, unspecified",
+1682,1204,14/05/2017,01/07/2018,09/05/1933,M,WI,Approved Closed,Closed,,Vascular dementia with behavioral disturbance,NH
+1921,1587,25/10/2016,03/01/2017,10/08/1923,M,MO,Approved Closed,Closed,,"Malignant neoplasm of bladder, unspecified",NH
+1566,1199,25/03/2016,04/12/2016,28/08/1930,M,FL,Approved Closed,Closed,,"Malignant neoplasm of pancreas, unspecified",HHC
+1295,1906,05/06/2008,,08/05/1926,M,IN,Denied,Denied,,CHOLERA,
+1777,1795,17/08/2019,,21/10/1930,F,TX,Denied,Denied,,CHOLERA,
+1361,1999,12/08/2018,16/02/2020,20/04/1929,F,FL,Approved Closed,Closed,,Malignant neoplasm of subglottis,HHC
+1064,1505,12/10/2017,,02/12/1927,F,MA,Denied,Denied,,Other amnesia,
+1887,1155,08/08/2008,05/01/2013,05/06/1928,M,MA,Approved Closed,Closed,,PARKINSON'S DISEASE,NH
+1278,2136,15/03/2021,04/10/2022,28/10/1933,M,WI,Approved-Reassessment,Approved,10/04/2022,"Anoxic brain damage, not elsewhere classified",
+1901,1583,26/03/2019,10/01/2019,21/02/1934,M,NH,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1995,1358,08/12/2016,21/09/2019,10/07/1933,F,MS,Approved Closed,Closed,,Other malaise,HHC
+1119,1427,28/05/2021,,27/04/1952,M,KY,Withdrawn,Closed,,"Bipolar disorder, unspecified",
+1431,2001,09/07/2019,09/12/2020,25/12/1941,F,IA,Approved Closed,Closed,,"Alzheimer's disease, unspecified",NH
+1912,1966,26/02/2016,,01/06/1929,M,VA,Denied,Denied,,CHOLERA,
+1275,2099,15/09/2020,19/11/2020,17/06/1931,F,TX,Approved Closed,Deceased,,"Heart failure, unspecified",
+1018,1271,22/11/2015,14/09/2018,08/12/1927,F,MN,Approved Closed,Closed,,Oth mental disorders due to known physiological condition,Alt Housing
+1668,1643,14/07/2019,,26/04/1926,F,TX,Denied,Denied,,Unspecified macular degeneration,
+1126,1395,01/01/2019,02/08/2020,22/01/1933,M,PA,Approved Closed,Closed,,Weakness,NH
+1827,1431,24/01/2020,11/03/2021,02/09/1936,F,FL,Approved-Reassessment,Approved,03/11/2021,Lymphoid leukemia,HHC
+1375,1776,26/03/2021,23/05/2022,20/09/1938,M,WA,Approved-Reassessment,Approved,23/05/2022,Dementia with Lewy bodies,
+1552,1485,22/12/2013,,24/02/1929,F,KS,Denied,Denied,,Repeated falls,
+1558,1082,28/08/2018,,09/08/1931,F,ND,Denied,Denied,,"Heart failure, unspecified",
+1641,1248,30/12/2014,,10/07/1937,M,CT,Denied,Denied,,CHOLERA,
+1538,1971,27/08/2019,,21/09/1928,M,KS,Denied,Denied,,Athscl heart disease of native coronary artery w/o ang pctrs,
+1074,1282,19/05/2017,,16/05/1936,F,PA,Denied,Denied,,CHOLERA,
+1369,1729,29/06/2021,,29/12/1937,F,VA,NEW,In Assessment,,,
+1670,1619,12/08/2018,23/01/2019,02/07/1930,F,IA,Approved Closed,Closed,,Hereditary motor and sensory neuropathy,NH
+1159,1735,18/11/2019,24/07/2020,27/11/1928,F,KS,Approved Closed,Closed,,Multiple fractures of pelvis with disruption of pelvic ring,NH
+1216,1956,10/04/2013,,15/01/1929,M,MA,Denied,Denied,,CHOLERA,
+1509,1515,23/03/2013,08/07/2018,03/11/1925,F,WA,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1468,1076,20/02/2021,04/06/2022,23/12/1937,F,PA,Approved-Reassessment,Approved,06/04/2022,Dysphagia following nontraumatic intracerebral hemorrhage,NH
+1702,1206,03/07/2021,04/02/2022,15/11/1936,M,NC,Approved-Reassessment,Approved,02/04/2022,"Alzheimer's disease, unspecified",
+1378,1185,13/06/2020,19/09/2020,20/06/1935,M,TX,Approved Closed,Deceased,,Malignant neoplasm of unsp part of unsp bronchus or lung,Personal Care
+1258,2153,30/05/2020,15/10/2020,17/09/1937,F,SC,Approved Closed,Closed,,"Malignant (primary) neoplasm, unspecified",HHC
+1916,2064,09/10/2016,25/12/2019,15/03/1928,F,TN,Approved Closed,Closed,,History of falling,NH
+1578,1328,02/06/2017,05/05/2021,11/11/1928,M,MA,Approved Closed,Closed,,Unspecified dementia,HHC
+1268,1816,16/09/2016,13/05/2019,07/11/1935,M,KY,Approved Closed,Closed,,"Alzheimer's disease, unspecified",HHC
+1224,1345,18/05/2013,13/05/2021,09/02/1932,M,FL,Approved Closed,Closed,,Age-related physical debility,HHC
+1192,1686,29/04/2019,16/02/2022,13/03/1931,M,WI,Approved-Reassessment,Approved,16/02/2022,Repeated falls,NH
+1836,2033,23/11/2020,28/12/2021,26/05/1931,F,WI,Approved-Reassessment,Approved,28/12/2021,"Wedge compression fracture of first lumbar vertebra, init",NH
+1519,1168,27/08/2016,23/08/2020,07/06/1928,F,ME,Approved Closed,Closed,,Unspecified injury of head,NH
+1042,1262,22/06/2013,30/11/2018,14/06/1920,M,FL,Approved Closed,Closed,,Other malaise,HHC
+1070,1174,13/05/2018,10/09/2018,22/02/1926,F,IA,Approved Closed,Closed,,History of falling,Alt Housing
+1607,2145,26/02/2018,30/09/2018,03/11/1927,M,MO,Approved Closed,Closed,,Hemiplga following cerebral infarction affecting unsp side,NH
+1057,1560,18/06/2019,04/07/2020,16/10/1925,M,WI,Approved Closed,Closed,,"Cerebral infarction, unspecified",HHC
+1486,1834,14/05/2010,13/10/2012,21/07/1935,M,NC,Approved Closed,Closed,,ALZHEIMER'S DISEASE,NH
+1349,1951,27/06/2017,01/03/2020,27/05/1922,F,KY,Approved Closed,Closed,,Age-related physical debility,NH
+1751,1779,04/02/2011,09/04/2011,07/02/1933,M,OK,Approved Closed,Closed,,"Alzheimer's disease, unspecified",
+1969,1655,18/06/2016,21/01/2019,28/09/1922,F,LA,Approved Closed,Closed,,Other amnesia,NH
+1609,1311,20/07/2008,26/03/2011,04/10/1925,M,NH,Approved Closed,Closed,,ALZHEIMER'S DISEASE,Alt Housing
+1262,1537,05/06/2019,19/10/2019,19/01/1929,F,OK,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1466,1464,23/04/2013,21/07/2018,25/03/1921,F,KS,Approved Closed,Closed,,Unspecified dementia without behavioral disturbance,NH
+1919,1374,29/03/2000,22/04/2004,27/03/1918,M,FL,Approved Closed,Closed,,CONGESTIVE HEART FAILURE,Other
+1520,1179,14/09/2013,05/02/2014,05/04/1934,M,NC,Approved Closed,Closed,,REGIONAL ENTERITIS/CROHN'S DISEASE,HHC
+1401,2005,17/11/2013,05/03/2022,24/08/1925,F,KS,Approved-Reassessment,Approved,03/05/2022,Other specified diseases of pericardium,NH
+1756,1194,09/05/2015,06/07/2020,19/07/1930,M,TX,Approved Closed,Closed,,"Heart failure, unspecified",NH
+1227,2052,22/10/2019,25/03/2020,15/02/1925,F,OR,Approved Closed,Closed,,Muscle weakness (generalized),NH
+1379,1961,04/02/2013,17/06/2020,07/04/1940,F,IL,Approved Closed,Closed,,Athscl heart disease of native coronary artery w/o ang pctrs,NH
+1658,1791,30/06/2019,24/09/2019,09/03/1926,M,NH,Approved Closed,Closed,,"Peripheral vascular disease, unspecified",NH
+1575,1124,24/05/2015,13/06/2018,11/11/1931,F,GA,Approved Closed,Closed,,"Chronic obstructive pulmonary disease, unspecified",NH
